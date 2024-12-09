@@ -1,0 +1,3149 @@
+Epoch 1 loss 2.6531293134 valid acc 2/16
+ 
+Epoch 1 loss 11.3932137874 valid acc 2/16
+ 
+Epoch 1 loss 11.7241588687 valid acc 2/16
+ 
+Epoch 1 loss 10.9632638219 valid acc 4/16
+ 
+Epoch 1 loss 11.0416196272 valid acc 3/16
+ 
+Epoch 1 loss 11.4979772454 valid acc 2/16
+ 
+Epoch 1 loss 11.6714333516 valid acc 6/16
+ 
+Epoch 1 loss 11.6550983927 valid acc 6/16
+ 
+Epoch 1 loss 10.5249533826 valid acc 8/16
+ 
+Epoch 1 loss 10.6307672023 valid acc 6/16
+ 
+Epoch 1 loss 9.3039875035 valid acc 7/16
+ 
+Epoch 1 loss 9.0498722221 valid acc 9/16
+ 
+Epoch 1 loss 9.1088856539 valid acc 10/16
+ 
+Epoch 1 loss 8.541712855 valid acc 8/16
+ 
+Epoch 1 loss 7.8806265408 valid acc 8/16
+ 
+Epoch 1 loss 8.798981169 valid acc 10/16
+ 
+Epoch 1 loss 8.0913835749 valid acc 10/16
+ 
+Epoch 1 loss 6.5040927153 valid acc 8/16
+ 
+Epoch 1 loss 6.5002456037 valid acc 9/16
+ 
+Epoch 1 loss 6.9142954454 valid acc 11/16
+ 
+Epoch 1 loss 7.45611473 valid acc 10/16
+ 
+Epoch 1 loss 4.8352265328 valid acc 13/16
+ 
+Epoch 1 loss 2.8198178341 valid acc 10/16
+ 
+Epoch 1 loss 5.4161316591 valid acc 14/16
+ 
+Epoch 1 loss 4.2937880182 valid acc 10/16
+ 
+Epoch 1 loss 5.4358945247 valid acc 12/16
+ 
+Epoch 1 loss 6.6001873378 valid acc 10/16
+ 
+Epoch 1 loss 3.7988050655 valid acc 9/16
+ 
+Epoch 1 loss 5.9134934678 valid acc 13/16
+ 
+Epoch 1 loss 3.4265965736 valid acc 12/16
+ 
+Epoch 1 loss 6.8622642223 valid acc 10/16
+ 
+Epoch 1 loss 3.7357647518 valid acc 14/16
+ 
+Epoch 1 loss 2.5833965315 valid acc 13/16
+ 
+Epoch 1 loss 5.0539349278 valid acc 14/16
+ 
+Epoch 1 loss 5.7857890649 valid acc 13/16
+ 
+Epoch 1 loss 3.7779905525 valid acc 13/16
+ 
+Epoch 1 loss 3.7060521776 valid acc 12/16
+ 
+Epoch 1 loss 3.7178055445 valid acc 15/16
+ 
+Epoch 1 loss 3.9819843912 valid acc 14/16
+ 
+Epoch 1 loss 3.6318294623 valid acc 10/16
+ 
+Epoch 1 loss 3.6531097503 valid acc 12/16
+ 
+Epoch 1 loss 3.1159801527 valid acc 12/16
+ 
+Epoch 1 loss 4.249274353 valid acc 11/16
+ 
+Epoch 1 loss 2.174572301 valid acc 13/16
+ 
+Epoch 1 loss 3.9117983902 valid acc 14/16
+ 
+Epoch 1 loss 2.3097290715 valid acc 15/16
+ 
+Epoch 1 loss 4.5970198995 valid acc 13/16
+ 
+Epoch 1 loss 3.6438473272 valid acc 12/16
+ 
+Epoch 1 loss 2.9359323216 valid acc 14/16
+ 
+Epoch 1 loss 2.3452002778 valid acc 15/16
+ 
+Epoch 1 loss 3.0347741526 valid acc 11/16
+ 
+Epoch 1 loss 2.9250602569 valid acc 16/16
+ 
+Epoch 1 loss 3.6410393758 valid acc 13/16
+ 
+Epoch 1 loss 2.7338845411 valid acc 14/16
+ 
+Epoch 1 loss 3.6540036949 valid acc 14/16
+ 
+Epoch 1 loss 2.6892271549 valid acc 15/16
+ 
+Epoch 1 loss 2.8751452904 valid acc 12/16
+ 
+Epoch 1 loss 3.1367697829 valid acc 14/16
+ 
+Epoch 1 loss 2.8784331892 valid acc 14/16
+ 
+Epoch 1 loss 3.6275377732 valid acc 13/16
+ 
+Epoch 1 loss 2.7104234878 valid acc 14/16
+ 
+Epoch 1 loss 3.5383228287 valid acc 14/16
+ 
+Epoch 1 loss 2.4602012058 valid acc 11/16
+ 
+Epoch 2 loss -0.1373833362 valid acc 15/16
+ 
+Epoch 2 loss 1.8782460024 valid acc 13/16
+ 
+Epoch 2 loss 2.6270226803 valid acc 14/16
+ 
+Epoch 2 loss 2.3043033513 valid acc 13/16
+ 
+Epoch 2 loss 1.1305178702 valid acc 14/16
+ 
+Epoch 2 loss 1.8809390547 valid acc 14/16
+ 
+Epoch 2 loss 1.9300843835 valid acc 13/16
+ 
+Epoch 2 loss 3.0821484869 valid acc 13/16
+ 
+Epoch 2 loss 2.7648767288 valid acc 14/16
+ 
+Epoch 2 loss 2.5769078642 valid acc 14/16
+ 
+Epoch 2 loss 1.9447830629 valid acc 15/16
+ 
+Epoch 2 loss 3.8879460226 valid acc 13/16
+ 
+Epoch 2 loss 2.4583177305 valid acc 14/16
+ 
+Epoch 2 loss 3.1570274187 valid acc 14/16
+ 
+Epoch 2 loss 2.4565812853 valid acc 14/16
+ 
+Epoch 2 loss 1.746381151 valid acc 14/16
+ 
+Epoch 2 loss 3.4308763579 valid acc 13/16
+ 
+Epoch 2 loss 2.9908134295 valid acc 14/16
+ 
+Epoch 2 loss 3.0733645098 valid acc 13/16
+ 
+Epoch 2 loss 1.2836828671 valid acc 14/16
+ 
+Epoch 2 loss 2.6712025095 valid acc 13/16
+ 
+Epoch 2 loss 1.7400173277 valid acc 13/16
+ 
+Epoch 2 loss 1.2955848761 valid acc 13/16
+ 
+Epoch 2 loss 2.0653873115 valid acc 14/16
+ 
+Epoch 2 loss 1.575054292 valid acc 15/16
+ 
+Epoch 2 loss 1.3995192614 valid acc 15/16
+ 
+Epoch 2 loss 2.2792251279 valid acc 14/16
+ 
+Epoch 2 loss 1.0823060309 valid acc 14/16
+ 
+Epoch 2 loss 1.9165440658 valid acc 15/16
+ 
+Epoch 2 loss 1.3086381712 valid acc 14/16
+ 
+Epoch 2 loss 1.7423359411 valid acc 13/16
+ 
+Epoch 2 loss 2.0487904034 valid acc 12/16
+ 
+Epoch 2 loss 5.1426473957 valid acc 14/16
+ 
+Epoch 2 loss 2.5153223475 valid acc 12/16
+ 
+Epoch 2 loss 3.8056385347 valid acc 14/16
+ 
+Epoch 2 loss 2.0771062658 valid acc 14/16
+ 
+Epoch 2 loss 2.1546021072 valid acc 13/16
+ 
+Epoch 2 loss 2.0127165503 valid acc 13/16
+ 
+Epoch 2 loss 2.3440232456 valid acc 14/16
+ 
+Epoch 2 loss 1.8423429048 valid acc 12/16
+ 
+Epoch 2 loss 1.0283149359 valid acc 15/16
+ 
+Epoch 2 loss 2.2563747665 valid acc 15/16
+ 
+Epoch 2 loss 1.372197931 valid acc 15/16
+ 
+Epoch 2 loss 1.3397662075 valid acc 15/16
+ 
+Epoch 2 loss 2.5177420456 valid acc 15/16
+ 
+Epoch 2 loss 0.1863871901 valid acc 15/16
+ 
+Epoch 2 loss 2.6097001778 valid acc 16/16
+ 
+Epoch 2 loss 2.5376233961 valid acc 16/16
+ 
+Epoch 2 loss 1.3034507436 valid acc 14/16
+ 
+Epoch 2 loss 0.35956659 valid acc 15/16
+ 
+Epoch 2 loss 1.0382896943 valid acc 13/16
+ 
+Epoch 2 loss 1.4756665668 valid acc 14/16
+ 
+Epoch 2 loss 2.3390674809 valid acc 14/16
+ 
+Epoch 2 loss 0.6130944273 valid acc 15/16
+ 
+Epoch 2 loss 2.8609130109 valid acc 11/16
+ 
+Epoch 2 loss 1.7580048427 valid acc 15/16
+ 
+Epoch 2 loss 1.4242173122 valid acc 15/16
+ 
+Epoch 2 loss 0.659224082 valid acc 15/16
+ 
+Epoch 2 loss 1.889904738 valid acc 14/16
+ 
+Epoch 2 loss 1.9298911629 valid acc 16/16
+ 
+Epoch 2 loss 1.6673633145 valid acc 15/16
+ 
+Epoch 2 loss 2.0034371826 valid acc 14/16
+ 
+Epoch 2 loss 2.4482645939 valid acc 15/16
+ 
+Epoch 3 loss 0.3430601316 valid acc 15/16
+ 
+Epoch 3 loss 1.3283954657 valid acc 15/16
+ 
+Epoch 3 loss 2.1752041766 valid acc 14/16
+ 
+Epoch 3 loss 1.7693568786 valid acc 13/16
+ 
+Epoch 3 loss 1.0079727268 valid acc 15/16
+ 
+Epoch 3 loss 1.2048709175 valid acc 15/16
+ 
+Epoch 3 loss 2.137038093 valid acc 13/16
+ 
+Epoch 3 loss 1.3564669135 valid acc 15/16
+ 
+Epoch 3 loss 1.9036373869 valid acc 13/16
+ 
+Epoch 3 loss 1.2489730941 valid acc 14/16
+ 
+Epoch 3 loss 0.6997700569 valid acc 14/16
+ 
+Epoch 3 loss 2.0257557226 valid acc 14/16
+ 
+Epoch 3 loss 2.6153260375 valid acc 15/16
+ 
+Epoch 3 loss 1.9157069385 valid acc 13/16
+ 
+Epoch 3 loss 2.6891028026 valid acc 15/16
+ 
+Epoch 3 loss 1.1650900978 valid acc 16/16
+ 
+Epoch 3 loss 2.4421919408 valid acc 15/16
+ 
+Epoch 3 loss 1.9689658906 valid acc 13/16
+ 
+Epoch 3 loss 1.5392722403 valid acc 15/16
+ 
+Epoch 3 loss 1.1555129823 valid acc 13/16
+ 
+Epoch 3 loss 1.6059989159 valid acc 15/16
+ 
+Epoch 3 loss 0.9405247563 valid acc 15/16
+ 
+Epoch 3 loss 0.3028823342 valid acc 14/16
+ 
+Epoch 3 loss 1.7759069339 valid acc 14/16
+ 
+Epoch 3 loss 0.8895520121 valid acc 15/16
+ 
+Epoch 3 loss 1.8779547647 valid acc 15/16
+ 
+Epoch 3 loss 1.1653946025 valid acc 14/16
+ 
+Epoch 3 loss 0.7272889413 valid acc 15/16
+ 
+Epoch 3 loss 1.8607247682 valid acc 14/16
+ 
+Epoch 3 loss 0.4993225679 valid acc 13/16
+ 
+Epoch 3 loss 1.0059929269 valid acc 14/16
+ 
+Epoch 3 loss 0.6145373489 valid acc 14/16
+ 
+Epoch 3 loss 0.3983673268 valid acc 14/16
+ 
+Epoch 3 loss 1.7524092637 valid acc 13/16
+ 
+Epoch 3 loss 1.7627000928 valid acc 14/16
+ 
+Epoch 3 loss 0.878656032 valid acc 15/16
+ 
+Epoch 3 loss 0.6749065519 valid acc 15/16
+ 
+Epoch 3 loss 1.1155100928 valid acc 14/16
+ 
+Epoch 3 loss 1.4462948882 valid acc 14/16
+ 
+Epoch 3 loss 0.8285930033 valid acc 14/16
+ 
+Epoch 3 loss 0.8198689079 valid acc 15/16
+ 
+Epoch 3 loss 0.8533452581 valid acc 15/16
+ 
+Epoch 3 loss 0.9916662091 valid acc 14/16
+ 
+Epoch 3 loss 1.0063505919 valid acc 15/16
+ 
+Epoch 3 loss 2.0517087396 valid acc 13/16
+ 
+Epoch 3 loss 0.7237222715 valid acc 15/16
+ 
+Epoch 3 loss 1.4201326582 valid acc 15/16
+ 
+Epoch 3 loss 2.4146115778 valid acc 15/16
+ 
+Epoch 3 loss 0.1446151915 valid acc 15/16
+ 
+Epoch 3 loss 0.9753244107 valid acc 16/16
+ 
+Epoch 3 loss 1.1390180732 valid acc 14/16
+ 
+Epoch 3 loss 1.2500195263 valid acc 15/16
+ 
+Epoch 3 loss 1.187324323 valid acc 15/16
+ 
+Epoch 3 loss 1.0624321193 valid acc 16/16
+ 
+Epoch 3 loss 1.5354065264 valid acc 15/16
+ 
+Epoch 3 loss 0.3199710656 valid acc 15/16
+ 
+Epoch 3 loss 1.6623107384 valid acc 15/16
+ 
+Epoch 3 loss 0.7391180901 valid acc 14/16
+ 
+Epoch 3 loss 1.66323294 valid acc 14/16
+ 
+Epoch 3 loss 1.6127811141 valid acc 15/16
+ 
+Epoch 3 loss 0.5858343118 valid acc 15/16
+ 
+Epoch 3 loss 1.1515443856 valid acc 15/16
+ 
+Epoch 3 loss 1.6109542554 valid acc 15/16
+ 
+Epoch 4 loss -0.1010936813 valid acc 15/16
+ 
+Epoch 4 loss 1.4835667991 valid acc 15/16
+ 
+Epoch 4 loss 1.1612886649 valid acc 15/16
+ 
+Epoch 4 loss 1.6245450663 valid acc 15/16
+ 
+Epoch 4 loss 0.2472736384 valid acc 15/16
+ 
+Epoch 4 loss 0.8031510519 valid acc 16/16
+ 
+Epoch 4 loss 1.793639434 valid acc 14/16
+ 
+Epoch 4 loss 1.8410105485 valid acc 16/16
+ 
+Epoch 4 loss 1.4226370659 valid acc 15/16
+ 
+Epoch 4 loss 0.9319756116 valid acc 15/16
+ 
+Epoch 4 loss 0.2559706634 valid acc 16/16
+ 
+Epoch 4 loss 1.8143140786 valid acc 14/16
+ 
+Epoch 4 loss 1.3707127242 valid acc 15/16
+ 
+Epoch 4 loss 1.3159745116 valid acc 14/16
+ 
+Epoch 4 loss 1.2710656408 valid acc 15/16
+ 
+Epoch 4 loss 0.5767471328 valid acc 15/16
+ 
+Epoch 4 loss 1.759846756 valid acc 14/16
+ 
+Epoch 4 loss 1.2263174246 valid acc 14/16
+ 
+Epoch 4 loss 1.5577314598 valid acc 15/16
+ 
+Epoch 4 loss 0.711691539 valid acc 15/16
+ 
+Epoch 4 loss 1.2860933084 valid acc 15/16
+ 
+Epoch 4 loss 0.4180111492 valid acc 15/16
+ 
+Epoch 4 loss -0.2481818761 valid acc 15/16
+ 
+Epoch 4 loss 1.4463168381 valid acc 15/16
+ 
+Epoch 4 loss 0.0116358168 valid acc 15/16
+ 
+Epoch 4 loss 0.6879113898 valid acc 15/16
+ 
+Epoch 4 loss 1.3963618799 valid acc 15/16
+ 
+Epoch 4 loss 0.3690608793 valid acc 15/16
+ 
+Epoch 4 loss 1.0147652932 valid acc 15/16
+ 
+Epoch 4 loss 0.5828898819 valid acc 15/16
+ 
+Epoch 4 loss 0.983252664 valid acc 15/16
+ 
+Epoch 4 loss 0.5463013855 valid acc 15/16
+ 
+Epoch 4 loss 0.7559858479 valid acc 15/16
+ 
+Epoch 4 loss 1.4792699267 valid acc 16/16
+ 
+Epoch 4 loss 1.6525528263 valid acc 13/16
+ 
+Epoch 4 loss 1.251778085 valid acc 15/16
+ 
+Epoch 4 loss 0.5252870157 valid acc 15/16
+ 
+Epoch 4 loss 0.3160277068 valid acc 15/16
+ 
+Epoch 4 loss 0.6289142305 valid acc 15/16
+ 
+Epoch 4 loss 0.8081791964 valid acc 15/16
+ 
+Epoch 4 loss 0.3953068401 valid acc 15/16
+ 
+Epoch 4 loss 0.4088800307 valid acc 15/16
+ 
+Epoch 4 loss 0.6553767987 valid acc 15/16
+ 
+Epoch 4 loss 0.8405766453 valid acc 15/16
+ 
+Epoch 4 loss 1.2170326069 valid acc 15/16
+ 
+Epoch 4 loss 0.8119955452 valid acc 15/16
+ 
+Epoch 4 loss 0.9923535173 valid acc 15/16
+ 
+Epoch 4 loss 0.8835141389 valid acc 14/16
+ 
+Epoch 4 loss 0.3886209568 valid acc 15/16
+ 
+Epoch 4 loss 0.5102192518 valid acc 16/16
+ 
+Epoch 4 loss 1.0171648308 valid acc 15/16
+ 
+Epoch 4 loss 1.1295326155 valid acc 14/16
+ 
+Epoch 4 loss 1.1290326574 valid acc 15/16
+ 
+Epoch 4 loss 1.1804226223 valid acc 14/16
+ 
+Epoch 4 loss 0.59504971 valid acc 14/16
+ 
+Epoch 4 loss 1.2805974535 valid acc 15/16
+ 
+Epoch 4 loss 1.2296394852 valid acc 15/16
+ 
+Epoch 4 loss 1.1493171387 valid acc 15/16
+ 
+Epoch 4 loss 0.8485705035 valid acc 14/16
+ 
+Epoch 4 loss 0.5828498715 valid acc 14/16
+ 
+Epoch 4 loss 0.6291013866 valid acc 15/16
+ 
+Epoch 4 loss 0.1123307215 valid acc 15/16
+ 
+Epoch 4 loss 1.245633416 valid acc 15/16
+ 
+Epoch 5 loss 0.4723989286 valid acc 15/16
+ 
+Epoch 5 loss 0.8940978265 valid acc 15/16
+ 
+Epoch 5 loss 1.1842957995 valid acc 15/16
+ 
+Epoch 5 loss 1.0853280887 valid acc 13/16
+ 
+Epoch 5 loss 0.6697648465 valid acc 15/16
+ 
+Epoch 5 loss 0.2365628023 valid acc 14/16
+ 
+Epoch 5 loss 1.3917080487 valid acc 16/16
+ 
+Epoch 5 loss 0.9022192374 valid acc 15/16
+ 
+Epoch 5 loss 0.6401960411 valid acc 15/16
+ 
+Epoch 5 loss 1.1857840631 valid acc 15/16
+ 
+Epoch 5 loss 0.2051763772 valid acc 15/16
+ 
+Epoch 5 loss 1.5577305326 valid acc 15/16
+ 
+Epoch 5 loss 1.5990856426 valid acc 14/16
+ 
+Epoch 5 loss 1.5946057268 valid acc 16/16
+ 
+Epoch 5 loss 0.7968487892 valid acc 14/16
+ 
+Epoch 5 loss 0.6022397964 valid acc 15/16
+ 
+Epoch 5 loss 1.3098447668 valid acc 15/16
+ 
+Epoch 5 loss 1.4561195771 valid acc 15/16
+ 
+Epoch 5 loss 1.6608526107 valid acc 15/16
+ 
+Epoch 5 loss 0.4658722261 valid acc 15/16
+ 
+Epoch 5 loss 0.6703461032 valid acc 15/16
+ 
+Epoch 5 loss 1.0714631033 valid acc 14/16
+ 
+Epoch 5 loss 0.2217002714 valid acc 15/16
+ 
+Epoch 5 loss 1.2234454262 valid acc 14/16
+ 
+Epoch 5 loss 0.1335246941 valid acc 15/16
+ 
+Epoch 5 loss 1.4023364133 valid acc 15/16
+ 
+Epoch 5 loss 0.5651245681 valid acc 15/16
+ 
+Epoch 5 loss 0.2479908668 valid acc 16/16
+ 
+Epoch 5 loss 1.1405647781 valid acc 15/16
+ 
+Epoch 5 loss -0.2434425087 valid acc 16/16
+ 
+Epoch 5 loss 0.5778949558 valid acc 15/16
+ 
+Epoch 5 loss 0.9136663198 valid acc 14/16
+ 
+Epoch 5 loss 0.4979936842 valid acc 15/16
+ 
+Epoch 5 loss 1.8284696184 valid acc 15/16
+ 
+Epoch 5 loss 1.8215728823 valid acc 15/16
+ 
+Epoch 5 loss 0.4756266159 valid acc 15/16
+ 
+Epoch 5 loss 1.0858680325 valid acc 15/16
+ 
+Epoch 5 loss 1.1439606146 valid acc 15/16
+ 
+Epoch 5 loss 0.5979738779 valid acc 15/16
+ 
+Epoch 5 loss -0.0561218288 valid acc 15/16
+ 
+Epoch 5 loss 0.0869440375 valid acc 15/16
+ 
+Epoch 5 loss 1.13758411 valid acc 14/16
+ 
+Epoch 5 loss 0.300804461 valid acc 15/16
+ 
+Epoch 5 loss 0.2100707988 valid acc 15/16
+ 
+Epoch 5 loss 0.7456071672 valid acc 16/16
+ 
+Epoch 5 loss -0.060750207 valid acc 16/16
+ 
+Epoch 5 loss 0.6552521001 valid acc 15/16
+ 
+Epoch 5 loss 1.1173507973 valid acc 16/16
+ 
+Epoch 5 loss 0.3281809779 valid acc 15/16
+ 
+Epoch 5 loss 1.1631327592 valid acc 15/16
+ 
+Epoch 5 loss -0.2463570239 valid acc 14/16
+ 
+Epoch 5 loss 1.1509154326 valid acc 14/16
+ 
+Epoch 5 loss 1.3659454921 valid acc 15/16
+ 
+Epoch 5 loss -0.0593692043 valid acc 15/16
+ 
+Epoch 5 loss 0.5286383755 valid acc 15/16
+ 
+Epoch 5 loss 0.6379509123 valid acc 15/16
+ 
+Epoch 5 loss 1.2232668784 valid acc 16/16
+ 
+Epoch 5 loss 0.8373900049 valid acc 15/16
+ 
+Epoch 5 loss 1.4616370783 valid acc 15/16
+ 
+Epoch 5 loss 0.5264648184 valid acc 15/16
+ 
+Epoch 5 loss 0.5662007206 valid acc 15/16
+ 
+Epoch 5 loss 1.110418104 valid acc 15/16
+ 
+Epoch 5 loss 0.4194903373 valid acc 14/16
+ 
+Epoch 6 loss -0.1820443212 valid acc 15/16
+ 
+Epoch 6 loss 0.3113301314 valid acc 15/16
+ 
+Epoch 6 loss 0.2841545601 valid acc 15/16
+ 
+Epoch 6 loss 1.1213238527 valid acc 15/16
+ 
+Epoch 6 loss 0.4355767415 valid acc 14/16
+ 
+Epoch 6 loss 0.9080465266 valid acc 15/16
+ 
+Epoch 6 loss 1.748354166 valid acc 13/16
+ 
+Epoch 6 loss 0.4322441726 valid acc 13/16
+ 
+Epoch 6 loss 0.5531687306 valid acc 16/16
+ 
+Epoch 6 loss 0.7371711394 valid acc 15/16
+ 
+Epoch 6 loss 0.2622618398 valid acc 15/16
+ 
+Epoch 6 loss 1.9517146587 valid acc 14/16
+ 
+Epoch 6 loss 0.7666426848 valid acc 15/16
+ 
+Epoch 6 loss 1.0493598925 valid acc 12/16
+ 
+Epoch 6 loss 0.6749804573 valid acc 15/16
+ 
+Epoch 6 loss 0.213347765 valid acc 15/16
+ 
+Epoch 6 loss 1.6718531185 valid acc 14/16
+ 
+Epoch 6 loss 1.3570429223 valid acc 15/16
+ 
+Epoch 6 loss 0.8138567149 valid acc 14/16
+ 
+Epoch 6 loss 1.0213644776 valid acc 15/16
+ 
+Epoch 6 loss 1.4972258048 valid acc 15/16
+ 
+Epoch 6 loss 0.8579529063 valid acc 14/16
+ 
+Epoch 6 loss 0.2306255423 valid acc 15/16
+ 
+Epoch 6 loss 0.1894740608 valid acc 14/16
+ 
+Epoch 6 loss 0.1227404583 valid acc 14/16
+ 
+Epoch 6 loss 0.5558014953 valid acc 15/16
+ 
+Epoch 6 loss 1.0127499387 valid acc 15/16
+ 
+Epoch 6 loss 0.5966865221 valid acc 16/16
+ 
+Epoch 6 loss 0.2699664535 valid acc 15/16
+ 
+Epoch 6 loss 0.5845954552 valid acc 15/16
+ 
+Epoch 6 loss 0.2950066076 valid acc 15/16
+ 
+Epoch 6 loss 0.2501555337 valid acc 15/16
+ 
+Epoch 6 loss 0.0194366504 valid acc 15/16
+ 
+Epoch 6 loss 1.0815226042 valid acc 15/16
+ 
+Epoch 6 loss 1.9763385683 valid acc 15/16
+ 
+Epoch 6 loss 1.0802173833 valid acc 15/16
+ 
+Epoch 6 loss 0.4530617317 valid acc 15/16
+ 
+Epoch 6 loss 1.1690224323 valid acc 15/16
+ 
+Epoch 6 loss 0.4810925901 valid acc 13/16
+ 
+Epoch 6 loss 0.972764832 valid acc 15/16
+ 
+Epoch 6 loss 0.626709491 valid acc 16/16
+ 
+Epoch 6 loss 0.7397147083 valid acc 16/16
+ 
+Epoch 6 loss 0.7946159214 valid acc 15/16
+ 
+Epoch 6 loss -0.3353243986 valid acc 15/16
+ 
+Epoch 6 loss 0.7773979565 valid acc 16/16
+ 
+Epoch 6 loss -0.2277573531 valid acc 16/16
+ 
+Epoch 6 loss 0.4332148044 valid acc 15/16
+ 
+Epoch 6 loss 1.1489388681 valid acc 14/16
+ 
+Epoch 6 loss 0.7075988762 valid acc 16/16
+ 
+Epoch 6 loss 0.5931151133 valid acc 16/16
+ 
+Epoch 6 loss 0.5617947703 valid acc 16/16
+ 
+Epoch 6 loss 0.1798613752 valid acc 16/16
+ 
+Epoch 6 loss 0.6782309526 valid acc 15/16
+ 
+Epoch 6 loss 0.918345778 valid acc 15/16
+ 
+Epoch 6 loss 0.9166778165 valid acc 15/16
+ 
+Epoch 6 loss 0.734005505 valid acc 14/16
+ 
+Epoch 6 loss 1.3899755887 valid acc 13/16
+ 
+Epoch 6 loss 0.9656358487 valid acc 14/16
+ 
+Epoch 6 loss 0.7763240507 valid acc 14/16
+ 
+Epoch 6 loss 0.2918873696 valid acc 14/16
+ 
+Epoch 6 loss -0.1313564844 valid acc 15/16
+ 
+Epoch 6 loss 0.5438446771 valid acc 14/16
+ 
+Epoch 6 loss 0.3951383212 valid acc 14/16
+ 
+Epoch 7 loss 0.1492020678 valid acc 15/16
+ 
+Epoch 7 loss 0.3608164425 valid acc 15/16
+ 
+Epoch 7 loss 1.4820036493 valid acc 15/16
+ 
+Epoch 7 loss 0.7962832097 valid acc 15/16
+ 
+Epoch 7 loss 0.0269845345 valid acc 15/16
+ 
+Epoch 7 loss 0.9200146165 valid acc 15/16
+ 
+Epoch 7 loss 0.5064586898 valid acc 15/16
+ 
+Epoch 7 loss 1.3221719585 valid acc 14/16
+ 
+Epoch 7 loss 1.0004740897 valid acc 15/16
+ 
+Epoch 7 loss 1.064821605 valid acc 15/16
+ 
+Epoch 7 loss 0.4853863724 valid acc 16/16
+ 
+Epoch 7 loss 1.1850849206 valid acc 15/16
+ 
+Epoch 7 loss 1.2956658118 valid acc 15/16
+ 
+Epoch 7 loss 0.9739734703 valid acc 14/16
+ 
+Epoch 7 loss 0.788820398 valid acc 15/16
+ 
+Epoch 7 loss 0.8862882525 valid acc 15/16
+ 
+Epoch 7 loss 0.8940181431 valid acc 15/16
+ 
+Epoch 7 loss 1.0204502416 valid acc 15/16
+ 
+Epoch 7 loss 0.6007174205 valid acc 15/16
+ 
+Epoch 7 loss 0.0144267651 valid acc 15/16
+ 
+Epoch 7 loss 0.6604421077 valid acc 15/16
+ 
+Epoch 7 loss 0.7054202429 valid acc 15/16
+ 
+Epoch 7 loss -0.2198974852 valid acc 14/16
+ 
+Epoch 7 loss 0.6393822478 valid acc 13/16
+ 
+Epoch 7 loss 0.6422468906 valid acc 13/16
+ 
+Epoch 7 loss 0.2240514814 valid acc 15/16
+ 
+Epoch 7 loss 0.3669913016 valid acc 15/16
+ 
+Epoch 7 loss -0.0921582696 valid acc 15/16
+ 
+Epoch 7 loss 0.2786441161 valid acc 15/16
+ 
+Epoch 7 loss 0.1284716473 valid acc 15/16
+ 
+Epoch 7 loss 1.553222826 valid acc 14/16
+ 
+Epoch 7 loss 0.1155200839 valid acc 13/16
+ 
+Epoch 7 loss 0.4106149962 valid acc 15/16
+ 
+Epoch 7 loss 1.1540666627 valid acc 14/16
+ 
+Epoch 7 loss 2.2008090689 valid acc 13/16
+ 
+Epoch 7 loss 1.0883899707 valid acc 14/16
+ 
+Epoch 7 loss 0.9830005427 valid acc 15/16
+ 
+Epoch 7 loss 0.6354599283 valid acc 15/16
+ 
+Epoch 7 loss 0.7541692751 valid acc 16/16
+ 
+Epoch 7 loss 0.0824935971 valid acc 15/16
+ 
+Epoch 7 loss 0.5956637267 valid acc 14/16
+ 
+Epoch 7 loss -0.008883391 valid acc 15/16
+ 
+Epoch 7 loss 0.326847642 valid acc 14/16
+ 
+Epoch 7 loss 0.0827296802 valid acc 14/16
+ 
+Epoch 7 loss 0.7425925111 valid acc 13/16
+ 
+Epoch 7 loss -0.2338407942 valid acc 14/16
+ 
+Epoch 7 loss 0.507630701 valid acc 15/16
+ 
+Epoch 7 loss 0.6677477203 valid acc 15/16
+ 
+Epoch 7 loss 0.1536306294 valid acc 15/16
+ 
+Epoch 7 loss 0.0994329508 valid acc 16/16
+ 
+Epoch 7 loss -0.076520591 valid acc 15/16
+ 
+Epoch 7 loss 1.0120432187 valid acc 15/16
+ 
+Epoch 7 loss 0.5379673616 valid acc 15/16
+ 
+Epoch 7 loss 0.7661693459 valid acc 15/16
+ 
+Epoch 7 loss 0.4888818491 valid acc 14/16
+ 
+Epoch 7 loss 0.616974295 valid acc 15/16
+ 
+Epoch 7 loss 1.027594387 valid acc 15/16
+ 
+Epoch 7 loss 0.2045831699 valid acc 15/16
+ 
+Epoch 7 loss 0.7506135816 valid acc 16/16
+ 
+Epoch 7 loss 0.0012760452 valid acc 16/16
+ 
+Epoch 7 loss 0.8652829697 valid acc 15/16
+ 
+Epoch 7 loss 0.6974033879 valid acc 15/16
+ 
+Epoch 7 loss 1.2383636089 valid acc 16/16
+ 
+Epoch 8 loss 0.23303424 valid acc 14/16
+ 
+Epoch 8 loss 0.4171514526 valid acc 15/16
+ 
+Epoch 8 loss 0.6175169473 valid acc 16/16
+ 
+Epoch 8 loss 1.057124748 valid acc 15/16
+ 
+Epoch 8 loss 0.433462547 valid acc 15/16
+ 
+Epoch 8 loss 1.3519743782 valid acc 15/16
+ 
+Epoch 8 loss 0.4311768013 valid acc 15/16
+ 
+Epoch 8 loss 0.9278842353 valid acc 15/16
+ 
+Epoch 8 loss -0.1006379835 valid acc 15/16
+ 
+Epoch 8 loss 0.1115123196 valid acc 16/16
+ 
+Epoch 8 loss 0.6749197759 valid acc 15/16
+ 
+Epoch 8 loss 0.7623711656 valid acc 15/16
+ 
+Epoch 8 loss 0.6379417493 valid acc 15/16
+ 
+Epoch 8 loss 0.9343534428 valid acc 14/16
+ 
+Epoch 8 loss -0.0341098859 valid acc 15/16
+ 
+Epoch 8 loss 0.1485908182 valid acc 15/16
+ 
+Epoch 8 loss 1.1171546227 valid acc 16/16
+ 
+Epoch 8 loss 0.2640960153 valid acc 16/16
+ 
+Epoch 8 loss 1.5147980193 valid acc 15/16
+ 
+Epoch 8 loss 0.1891553413 valid acc 16/16
+ 
+Epoch 8 loss 1.1755439303 valid acc 16/16
+ 
+Epoch 8 loss 0.2008065668 valid acc 15/16
+ 
+Epoch 8 loss -0.0518384669 valid acc 15/16
+ 
+Epoch 8 loss 0.9740171741 valid acc 14/16
+ 
+Epoch 8 loss 0.3834732988 valid acc 13/16
+ 
+Epoch 8 loss 0.9246657282 valid acc 15/16
+ 
+Epoch 8 loss 1.3142553607 valid acc 14/16
+ 
+Epoch 8 loss 0.3300793753 valid acc 16/16
+ 
+Epoch 8 loss 0.3911696384 valid acc 16/16
+ 
+Epoch 8 loss 0.2711017493 valid acc 15/16
+ 
+Epoch 8 loss 0.8776624762 valid acc 15/16
+ 
+Epoch 8 loss 0.9532520185 valid acc 15/16
+ 
+Epoch 8 loss 0.3580950993 valid acc 14/16
+ 
+Epoch 8 loss 0.6830428156 valid acc 15/16
+ 
+Epoch 8 loss 1.1813537633 valid acc 16/16
+ 
+Epoch 8 loss -0.1996473997 valid acc 16/16
+ 
+Epoch 8 loss -0.1344193871 valid acc 16/16
+ 
+Epoch 8 loss 0.3138509071 valid acc 15/16
+ 
+Epoch 8 loss 0.9364146035 valid acc 16/16
+ 
+Epoch 8 loss 0.364391218 valid acc 16/16
+ 
+Epoch 8 loss 0.0326753353 valid acc 16/16
+ 
+Epoch 8 loss 0.1336554605 valid acc 16/16
+ 
+Epoch 8 loss 0.8134766582 valid acc 15/16
+ 
+Epoch 8 loss -0.0694501188 valid acc 15/16
+ 
+Epoch 8 loss 0.1113357301 valid acc 15/16
+ 
+Epoch 8 loss 0.5905951488 valid acc 14/16
+ 
+Epoch 8 loss 0.5947703524 valid acc 16/16
+ 
+Epoch 8 loss 1.0456281017 valid acc 16/16
+ 
+Epoch 8 loss 0.7642368046 valid acc 15/16
+ 
+Epoch 8 loss 0.4546325586 valid acc 16/16
+ 
+Epoch 8 loss -0.0736736209 valid acc 16/16
+ 
+Epoch 8 loss 0.8432553854 valid acc 16/16
+ 
+Epoch 8 loss 0.6445317798 valid acc 15/16
+ 
+Epoch 8 loss -0.2263031548 valid acc 15/16
+ 
+Epoch 8 loss 0.0762999296 valid acc 14/16
+ 
+Epoch 8 loss 0.8599016514 valid acc 15/16
+ 
+Epoch 8 loss 1.0796522336 valid acc 14/16
+ 
+Epoch 8 loss 0.2290072859 valid acc 14/16
+ 
+Epoch 8 loss 0.5880220261 valid acc 14/16
+ 
+Epoch 8 loss 1.0451054406 valid acc 16/16
+ 
+Epoch 8 loss 0.6912029952 valid acc 16/16
+ 
+Epoch 8 loss 0.5725522546 valid acc 15/16
+ 
+Epoch 8 loss 0.4559508134 valid acc 16/16
+ 
+Epoch 9 loss 0.2539720225 valid acc 15/16
+ 
+Epoch 9 loss 0.3233131702 valid acc 15/16
+ 
+Epoch 9 loss 1.3688192952 valid acc 16/16
+ 
+Epoch 9 loss 0.4744695347 valid acc 15/16
+ 
+Epoch 9 loss 0.7525775225 valid acc 14/16
+ 
+Epoch 9 loss -0.2215926582 valid acc 15/16
+ 
+Epoch 9 loss 1.0993640892 valid acc 16/16
+ 
+Epoch 9 loss 0.7101873878 valid acc 15/16
+ 
+Epoch 9 loss 0.7786223997 valid acc 15/16
+ 
+Epoch 9 loss 0.4942915398 valid acc 16/16
+ 
+Epoch 9 loss 0.0332973065 valid acc 16/16
+ 
+Epoch 9 loss 0.040103112 valid acc 16/16
+ 
+Epoch 9 loss 0.593289044 valid acc 14/16
+ 
+Epoch 9 loss 1.0284301472 valid acc 15/16
+ 
+Epoch 9 loss 1.0049658632 valid acc 15/16
+ 
+Epoch 9 loss 0.2697972847 valid acc 15/16
+ 
+Epoch 9 loss 0.5607773109 valid acc 15/16
+ 
+Epoch 9 loss 1.3666129105 valid acc 14/16
+ 
+Epoch 9 loss 0.7690277885 valid acc 15/16
+ 
+Epoch 9 loss 0.6436643845 valid acc 14/16
+ 
+Epoch 9 loss 0.0508053742 valid acc 15/16
+ 
+Epoch 9 loss 0.3436056906 valid acc 15/16
+ 
+Epoch 9 loss 0.5584927952 valid acc 15/16
+ 
+Epoch 9 loss 0.7770591856 valid acc 14/16
+ 
+Epoch 9 loss 0.1191668942 valid acc 13/16
+ 
+Epoch 9 loss 0.4830125696 valid acc 16/16
+ 
+Epoch 9 loss 0.9392909015 valid acc 15/16
+ 
+Epoch 9 loss 0.6247439807 valid acc 15/16
+ 
+Epoch 9 loss 0.130887768 valid acc 15/16
+ 
+Epoch 9 loss 0.5825955526 valid acc 15/16
+ 
+Epoch 9 loss -0.408690758 valid acc 16/16
+ 
+Epoch 9 loss -0.2226745071 valid acc 15/16
+ 
+Epoch 9 loss 0.3646128324 valid acc 14/16
+ 
+Epoch 9 loss 1.8207740059 valid acc 15/16
+ 
+Epoch 9 loss 1.2901131045 valid acc 15/16
+ 
+Epoch 9 loss 0.7735703174 valid acc 15/16
+ 
+Epoch 9 loss 0.6612067532 valid acc 15/16
+ 
+Epoch 9 loss 0.5102989962 valid acc 15/16
+ 
+Epoch 9 loss 0.1024476382 valid acc 15/16
+ 
+Epoch 9 loss 0.066707735 valid acc 14/16
+ 
+Epoch 9 loss -0.2044666534 valid acc 15/16
+ 
+Epoch 9 loss 1.0119429073 valid acc 15/16
+ 
+Epoch 9 loss -0.0407806703 valid acc 15/16
+ 
+Epoch 9 loss -0.1232998905 valid acc 14/16
+ 
+Epoch 9 loss 0.983604226 valid acc 14/16
+ 
+Epoch 9 loss 0.1091186094 valid acc 14/16
+ 
+Epoch 9 loss 0.4095898891 valid acc 14/16
+ 
+Epoch 9 loss 0.0564122686 valid acc 16/16
+ 
+Epoch 9 loss -0.1341269676 valid acc 15/16
+ 
+Epoch 9 loss -0.0044137063 valid acc 15/16
+ 
+Epoch 9 loss 1.131262321 valid acc 16/16
+ 
+Epoch 9 loss 0.8489780522 valid acc 15/16
+ 
+Epoch 9 loss 0.5777453984 valid acc 14/16
+ 
+Epoch 9 loss 0.3729665205 valid acc 15/16
+ 
+Epoch 9 loss 0.2719436124 valid acc 14/16
+ 
+Epoch 9 loss -0.3466444327 valid acc 15/16
+ 
+Epoch 9 loss 0.7904599738 valid acc 15/16
+ 
+Epoch 9 loss 0.3232587299 valid acc 15/16
+ 
+Epoch 9 loss 0.7652375572 valid acc 14/16
+ 
+Epoch 9 loss 0.5866127418 valid acc 14/16
+ 
+Epoch 9 loss 0.3789869283 valid acc 15/16
+ 
+Epoch 9 loss 0.7723906477 valid acc 15/16
+ 
+Epoch 9 loss 0.4848421806 valid acc 15/16
+ 
+Epoch 10 loss -0.1468724314 valid acc 15/16
+ 
+Epoch 10 loss 0.1787769905 valid acc 14/16
+ 
+Epoch 10 loss 0.6522056685 valid acc 15/16
+ 
+Epoch 10 loss 0.1715454152 valid acc 15/16
+ 
+Epoch 10 loss -0.318448744 valid acc 15/16
+ 
+Epoch 10 loss -0.4047505137 valid acc 14/16
+ 
+Epoch 10 loss 0.4983226071 valid acc 15/16
+ 
+Epoch 10 loss 0.2097736197 valid acc 16/16
+ 
+Epoch 10 loss 0.2972108407 valid acc 15/16
+ 
+Epoch 10 loss 0.9897110548 valid acc 16/16
+ 
+Epoch 10 loss 0.4431150075 valid acc 16/16
+ 
+Epoch 10 loss 1.1108857036 valid acc 15/16
+ 
+Epoch 10 loss 0.3774088143 valid acc 15/16
+ 
+Epoch 10 loss 1.5386499817 valid acc 15/16
+ 
+Epoch 10 loss 0.8277387147 valid acc 14/16
+ 
+Epoch 10 loss 0.0851540959 valid acc 14/16
+ 
+Epoch 10 loss 1.4091593396 valid acc 14/16
+ 
+Epoch 10 loss 0.9871493736 valid acc 14/16
+ 
+Epoch 10 loss 0.6902157064 valid acc 15/16
+ 
+Epoch 10 loss 0.5301487778 valid acc 14/16
+ 
+Epoch 10 loss 0.8537096769 valid acc 15/16
+ 
+Epoch 10 loss -0.1430276148 valid acc 15/16
+ 
+Epoch 10 loss 0.3702070314 valid acc 14/16
+ 
+Epoch 10 loss 0.3878163358 valid acc 15/16
+ 
+Epoch 10 loss -0.2954638053 valid acc 14/16
+ 
+Epoch 10 loss 0.3125939979 valid acc 14/16
+ 
+Epoch 10 loss 0.7799612625 valid acc 15/16
+ 
+Epoch 10 loss 0.0960673505 valid acc 14/16
+ 
+Epoch 10 loss 0.5784068325 valid acc 16/16
+ 
+Epoch 10 loss 0.6073137743 valid acc 14/16
+ 
+Epoch 10 loss 0.386267243 valid acc 15/16
+ 
+Epoch 10 loss 0.3588761883 valid acc 14/16
+ 
+Epoch 10 loss 0.1253658015 valid acc 14/16
+ 
+Epoch 10 loss 0.2745036016 valid acc 15/16
+ 
+Epoch 10 loss 1.3683909352 valid acc 15/16
+ 
+Epoch 10 loss -0.0625270492 valid acc 15/16
+ 
+Epoch 10 loss 0.7841935223 valid acc 14/16
+ 
+Epoch 10 loss 0.3086997851 valid acc 14/16
+ 
+Epoch 10 loss 0.3579089287 valid acc 14/16
+ 
+Epoch 10 loss 0.5644085113 valid acc 15/16
+ 
+Epoch 10 loss 0.7745673188 valid acc 15/16
+ 
+Epoch 10 loss 0.5697253042 valid acc 15/16
+ 
+Epoch 10 loss 0.829391953 valid acc 15/16
+ 
+Epoch 10 loss -0.1309059104 valid acc 15/16
+ 
+Epoch 10 loss 0.0523615069 valid acc 16/16
+ 
+Epoch 10 loss 0.0575069693 valid acc 16/16
+ 
+Epoch 10 loss 0.4782362528 valid acc 15/16
+ 
+Epoch 10 loss 0.7943227098 valid acc 15/16
+ 
+Epoch 10 loss 0.3229426065 valid acc 16/16
+ 
+Epoch 10 loss 0.658126301 valid acc 16/16
+ 
+Epoch 10 loss 0.773722545 valid acc 15/16
+ 
+Epoch 10 loss 0.6053090872 valid acc 15/16
+ 
+Epoch 10 loss 0.5336533618 valid acc 15/16
+ 
+Epoch 10 loss 0.5271691035 valid acc 15/16
+ 
+Epoch 10 loss 0.8065806629 valid acc 15/16
+ 
+Epoch 10 loss 0.5534887795 valid acc 15/16
+ 
+Epoch 10 loss 0.8958463263 valid acc 15/16
+ 
+Epoch 10 loss 0.0915180367 valid acc 15/16
+ 
+Epoch 10 loss 0.8299081306 valid acc 14/16
+ 
+Epoch 10 loss 0.6902920181 valid acc 16/16
+ 
+Epoch 10 loss 0.0552522159 valid acc 16/16
+ 
+Epoch 10 loss 0.0389201434 valid acc 14/16
+ 
+Epoch 10 loss 0.8498953845 valid acc 15/16
+ 
+Epoch 11 loss 0.1677061788 valid acc 15/16
+ 
+Epoch 11 loss -0.0739859422 valid acc 16/16
+ 
+Epoch 11 loss 0.8354803404 valid acc 14/16
+ 
+Epoch 11 loss 0.1927199148 valid acc 14/16
+ 
+Epoch 11 loss 0.4107216132 valid acc 15/16
+ 
+Epoch 11 loss 0.2173749887 valid acc 15/16
+ 
+Epoch 11 loss 1.2410456195 valid acc 15/16
+ 
+Epoch 11 loss 1.2489322475 valid acc 14/16
+ 
+Epoch 11 loss 0.657306857 valid acc 15/16
+ 
+Epoch 11 loss 0.3593655104 valid acc 15/16
+ 
+Epoch 11 loss -0.036547444 valid acc 16/16
+ 
+Epoch 11 loss 1.6156330351 valid acc 14/16
+ 
+Epoch 11 loss 0.784872379 valid acc 15/16
+ 
+Epoch 11 loss 0.4567462324 valid acc 13/16
+ 
+Epoch 11 loss 0.5464415103 valid acc 14/16
+ 
+Epoch 11 loss 0.3644490801 valid acc 13/16
+ 
+Epoch 11 loss 0.4570771349 valid acc 14/16
+ 
+Epoch 11 loss 0.5345991955 valid acc 15/16
+ 
+Epoch 11 loss 0.5541112873 valid acc 15/16
+ 
+Epoch 11 loss 0.3408258487 valid acc 15/16
+ 
+Epoch 11 loss 0.8510597134 valid acc 12/16
+ 
+Epoch 11 loss 0.0956440017 valid acc 15/16
+ 
+Epoch 11 loss 0.0501081499 valid acc 15/16
+ 
+Epoch 11 loss 0.2626738729 valid acc 12/16
+ 
+Epoch 11 loss 1.1836456388 valid acc 14/16
+ 
+Epoch 11 loss 0.794836125 valid acc 14/16
+ 
+Epoch 11 loss 0.588578771 valid acc 14/16
+ 
+Epoch 11 loss 0.3258492951 valid acc 16/16
+ 
+Epoch 11 loss 0.2422911487 valid acc 15/16
+ 
+Epoch 11 loss 0.0437997352 valid acc 16/16
+ 
+Epoch 11 loss -0.0541418709 valid acc 15/16
+ 
+Epoch 11 loss 0.4583346347 valid acc 14/16
+ 
+Epoch 11 loss -0.2077746589 valid acc 15/16
+ 
+Epoch 11 loss 0.7848935474 valid acc 15/16
+ 
+Epoch 11 loss 1.2336133271 valid acc 14/16
+ 
+Epoch 11 loss -0.173754291 valid acc 15/16
+ 
+Epoch 11 loss 0.0897733482 valid acc 15/16
+ 
+Epoch 11 loss 0.9371562281 valid acc 16/16
+ 
+Epoch 11 loss -0.0878462541 valid acc 14/16
+ 
+Epoch 11 loss 1.0755839916 valid acc 14/16
+ 
+Epoch 11 loss 0.6486536689 valid acc 15/16
+ 
+Epoch 11 loss 0.4621904096 valid acc 15/16
+ 
+Epoch 11 loss 0.2286312212 valid acc 15/16
+ 
+Epoch 11 loss -0.0032992973 valid acc 13/16
+ 
+Epoch 11 loss 1.2867278 valid acc 16/16
+ 
+Epoch 11 loss -0.068941873 valid acc 14/16
+ 
+Epoch 11 loss 0.2374846408 valid acc 15/16
+ 
+Epoch 11 loss 0.1206735997 valid acc 15/16
+ 
+Epoch 11 loss -0.1254576887 valid acc 15/16
+ 
+Epoch 11 loss 0.2682338878 valid acc 15/16
+ 
+Epoch 11 loss 0.5480485021 valid acc 16/16
+ 
+Epoch 11 loss 0.3948050785 valid acc 16/16
+ 
+Epoch 11 loss 0.6372101737 valid acc 15/16
+ 
+Epoch 11 loss 0.2381767526 valid acc 15/16
+ 
+Epoch 11 loss 0.2424243464 valid acc 15/16
+ 
+Epoch 11 loss 0.1163422946 valid acc 15/16
+ 
+Epoch 11 loss 0.6167294917 valid acc 15/16
+ 
+Epoch 11 loss 0.5156027216 valid acc 15/16
+ 
+Epoch 11 loss 0.3003322003 valid acc 15/16
+ 
+Epoch 11 loss 0.4623961222 valid acc 15/16
+ 
+Epoch 11 loss 0.4416789956 valid acc 15/16
+ 
+Epoch 11 loss 0.3485823239 valid acc 14/16
+ 
+Epoch 11 loss 0.3415787273 valid acc 14/16
+ 
+Epoch 12 loss 0.2696300715 valid acc 15/16
+ 
+Epoch 12 loss 1.0365957481 valid acc 15/16
+ 
+Epoch 12 loss 1.0496642995 valid acc 15/16
+ 
+Epoch 12 loss 0.2304154638 valid acc 15/16
+ 
+Epoch 12 loss 0.4735007178 valid acc 15/16
+ 
+Epoch 12 loss -0.281910969 valid acc 15/16
+ 
+Epoch 12 loss 0.3156051018 valid acc 15/16
+ 
+Epoch 12 loss 0.0241899466 valid acc 15/16
+ 
+Epoch 12 loss 0.0087960186 valid acc 15/16
+ 
+Epoch 12 loss 0.0670044151 valid acc 15/16
+ 
+Epoch 12 loss -0.053074095 valid acc 15/16
+ 
+Epoch 12 loss 0.9593386787 valid acc 15/16
+ 
+Epoch 12 loss 0.9158903549 valid acc 15/16
+ 
+Epoch 12 loss 0.8538369222 valid acc 15/16
+ 
+Epoch 12 loss 0.5302516189 valid acc 16/16
+ 
+Epoch 12 loss 0.0651786345 valid acc 14/16
+ 
+Epoch 12 loss 0.1551113004 valid acc 15/16
+ 
+Epoch 12 loss 0.4963262935 valid acc 14/16
+ 
+Epoch 12 loss -0.0507957708 valid acc 14/16
+ 
+Epoch 12 loss 0.1823792449 valid acc 15/16
+ 
+Epoch 12 loss 0.5110672022 valid acc 15/16
+ 
+Epoch 12 loss 0.2986601968 valid acc 15/16
+ 
+Epoch 12 loss -0.086706115 valid acc 15/16
+ 
+Epoch 12 loss 0.6268358324 valid acc 13/16
+ 
+Epoch 12 loss 0.2396935326 valid acc 14/16
+ 
+Epoch 12 loss 0.1957784442 valid acc 15/16
+ 
+Epoch 12 loss 0.623403614 valid acc 15/16
+ 
+Epoch 12 loss 0.1572184046 valid acc 16/16
+ 
+Epoch 12 loss 0.5401249882 valid acc 15/16
+ 
+Epoch 12 loss 0.6383939995 valid acc 15/16
+ 
+Epoch 12 loss 0.1660604616 valid acc 15/16
+ 
+Epoch 12 loss 0.6725874877 valid acc 15/16
+ 
+Epoch 12 loss -0.3655422894 valid acc 15/16
+ 
+Epoch 12 loss 1.0676608268 valid acc 15/16
+ 
+Epoch 12 loss 1.3698966487 valid acc 15/16
+ 
+Epoch 12 loss -0.0867863587 valid acc 15/16
+ 
+Epoch 12 loss -0.0291916248 valid acc 15/16
+ 
+Epoch 12 loss 0.1305537747 valid acc 15/16
+ 
+Epoch 12 loss 1.0310648739 valid acc 16/16
+ 
+Epoch 12 loss 0.4078485595 valid acc 14/16
+ 
+Epoch 12 loss 0.5606188379 valid acc 15/16
+ 
+Epoch 12 loss 0.3434265157 valid acc 15/16
+ 
+Epoch 12 loss 0.9057023033 valid acc 15/16
+ 
+Epoch 12 loss -0.2868864253 valid acc 14/16
+ 
+Epoch 12 loss 0.1333981375 valid acc 16/16
+ 
+Epoch 12 loss 0.4229124902 valid acc 16/16
+ 
+Epoch 12 loss 0.0020891782 valid acc 15/16
+ 
+Epoch 12 loss 0.6509507112 valid acc 16/16
+ 
+Epoch 12 loss 0.5480937993 valid acc 16/16
+ 
+Epoch 12 loss 0.9268350899 valid acc 16/16
+ 
+Epoch 12 loss 0.5730697997 valid acc 14/16
+ 
+Epoch 12 loss 1.0466607337 valid acc 16/16
+ 
+Epoch 12 loss -0.0751223676 valid acc 15/16
+ 
+Epoch 12 loss -0.2533322326 valid acc 15/16
+ 
+Epoch 12 loss 0.1890195692 valid acc 15/16
+ 
+Epoch 12 loss 0.8849615148 valid acc 15/16
+ 
+Epoch 12 loss 0.094105891 valid acc 14/16
+ 
+Epoch 12 loss -0.060979925 valid acc 13/16
+ 
+Epoch 12 loss 0.3683307407 valid acc 15/16
+ 
+Epoch 12 loss 0.3172871694 valid acc 15/16
+ 
+Epoch 12 loss 0.5643489538 valid acc 15/16
+ 
+Epoch 12 loss -0.1646740663 valid acc 14/16
+ 
+Epoch 12 loss 0.1485118521 valid acc 16/16
+ 
+Epoch 13 loss -0.1680703557 valid acc 15/16
+ 
+Epoch 13 loss 0.4225583002 valid acc 14/16
+ 
+Epoch 13 loss 0.5707711716 valid acc 16/16
+ 
+Epoch 13 loss -0.1277151402 valid acc 14/16
+ 
+Epoch 13 loss 0.5793245956 valid acc 15/16
+ 
+Epoch 13 loss 1.0246483974 valid acc 14/16
+ 
+Epoch 13 loss 0.5104980667 valid acc 15/16
+ 
+Epoch 13 loss 0.4820716718 valid acc 14/16
+ 
+Epoch 13 loss 1.2188543112 valid acc 14/16
+ 
+Epoch 13 loss 0.1746520844 valid acc 14/16
+ 
+Epoch 13 loss -0.2004657827 valid acc 16/16
+ 
+Epoch 13 loss 0.726934044 valid acc 15/16
+ 
+Epoch 13 loss 0.9377029471 valid acc 15/16
+ 
+Epoch 13 loss 0.0512023132 valid acc 15/16
+ 
+Epoch 13 loss 0.3627282956 valid acc 15/16
+ 
+Epoch 13 loss -0.0417810059 valid acc 15/16
+ 
+Epoch 13 loss 0.5298378331 valid acc 14/16
+ 
+Epoch 13 loss 1.1896375554 valid acc 15/16
+ 
+Epoch 13 loss 0.1519750937 valid acc 14/16
+ 
+Epoch 13 loss 0.8702188061 valid acc 15/16
+ 
+Epoch 13 loss 1.3135766066 valid acc 14/16
+ 
+Epoch 13 loss 0.6526455124 valid acc 14/16
+ 
+Epoch 13 loss 0.6581551669 valid acc 13/16
+ 
+Epoch 13 loss 0.0611111037 valid acc 15/16
+ 
+Epoch 13 loss -0.2184955731 valid acc 15/16
+ 
+Epoch 13 loss 0.6673872968 valid acc 15/16
+ 
+Epoch 13 loss 0.7562324917 valid acc 15/16
+ 
+Epoch 13 loss 0.480229759 valid acc 14/16
+ 
+Epoch 13 loss 0.4515695777 valid acc 14/16
+ 
+Epoch 13 loss 0.3606090599 valid acc 14/16
+ 
+Epoch 13 loss 0.9368071855 valid acc 14/16
+ 
+Epoch 13 loss 0.1028899319 valid acc 14/16
+ 
+Epoch 13 loss 0.4694333633 valid acc 13/16
+ 
+Epoch 13 loss 0.6314166267 valid acc 14/16
+ 
+Epoch 13 loss 0.5784360799 valid acc 15/16
+ 
+Epoch 13 loss 0.8827553178 valid acc 15/16
+ 
+Epoch 13 loss 0.0419438935 valid acc 15/16
+ 
+Epoch 13 loss 0.7108151214 valid acc 12/16
+ 
+Epoch 13 loss 0.5230623357 valid acc 13/16
+ 
+Epoch 13 loss 1.1458399388 valid acc 14/16
+ 
+Epoch 13 loss 0.6753734442 valid acc 14/16
+ 
+Epoch 13 loss -0.1026738305 valid acc 16/16
+ 
+Epoch 13 loss 0.5953609523 valid acc 15/16
+ 
+Epoch 13 loss 0.3555737654 valid acc 14/16
+ 
+Epoch 13 loss 0.1536172207 valid acc 14/16
+ 
+Epoch 13 loss 0.5409752133 valid acc 15/16
+ 
+Epoch 13 loss 0.9131468599 valid acc 15/16
+ 
+Epoch 13 loss 0.2648983802 valid acc 15/16
+ 
+Epoch 13 loss 0.5721408671 valid acc 16/16
+ 
+Epoch 13 loss 0.3403855327 valid acc 14/16
+ 
+Epoch 13 loss 0.5156409652 valid acc 14/16
+ 
+Epoch 13 loss 0.3757341635 valid acc 14/16
+ 
+Epoch 13 loss 0.9692018479 valid acc 14/16
+ 
+Epoch 13 loss 0.4490750041 valid acc 15/16
+ 
+Epoch 13 loss -0.0636573624 valid acc 15/16
+ 
+Epoch 13 loss 0.3441251674 valid acc 14/16
+ 
+Epoch 13 loss 0.7228996489 valid acc 15/16
+ 
+Epoch 13 loss -0.4009481587 valid acc 15/16
+ 
+Epoch 13 loss 0.6120595288 valid acc 14/16
+ 
+Epoch 13 loss 1.0347842861 valid acc 15/16
+ 
+Epoch 13 loss 0.1439293682 valid acc 15/16
+ 
+Epoch 13 loss 0.2463702563 valid acc 15/16
+ 
+Epoch 13 loss 0.2935972308 valid acc 12/16
+ 
+Epoch 14 loss 0.1392263584 valid acc 14/16
+ 
+Epoch 14 loss 0.0271602818 valid acc 15/16
+ 
+Epoch 14 loss 0.8215958349 valid acc 15/16
+ 
+Epoch 14 loss 0.5968484661 valid acc 16/16
+ 
+Epoch 14 loss 0.342448955 valid acc 15/16
+ 
+Epoch 14 loss 0.0262745011 valid acc 15/16
+ 
+Epoch 14 loss 0.4349149683 valid acc 15/16
+ 
+Epoch 14 loss 0.0146491069 valid acc 14/16
+ 
+Epoch 14 loss -0.3376734683 valid acc 14/16
+ 
+Epoch 14 loss 0.1600729092 valid acc 15/16
+ 
+Epoch 14 loss 0.8439662953 valid acc 15/16
+ 
+Epoch 14 loss 0.957737781 valid acc 15/16
+ 
+Epoch 14 loss 0.2710385751 valid acc 16/16
+ 
+Epoch 14 loss 0.435497909 valid acc 15/16
+ 
+Epoch 14 loss 0.7115546325 valid acc 15/16
+ 
+Epoch 14 loss 0.0232807743 valid acc 15/16
+ 
+Epoch 14 loss 0.831713268 valid acc 15/16
+ 
+Epoch 14 loss 0.5870929686 valid acc 14/16
+ 
+Epoch 14 loss 0.2361042759 valid acc 15/16
+ 
+Epoch 14 loss 0.2025854764 valid acc 14/16
+ 
+Epoch 14 loss 0.42493503 valid acc 15/16
+ 
+Epoch 14 loss -0.0196025472 valid acc 15/16
+ 
+Epoch 14 loss 0.6354884819 valid acc 14/16
+ 
+Epoch 14 loss 1.310467513 valid acc 14/16
+ 
+Epoch 14 loss 0.6666068994 valid acc 16/16
+ 
+Epoch 14 loss 0.6648679794 valid acc 15/16
+ 
+Epoch 14 loss 0.0695303857 valid acc 16/16
+ 
+Epoch 14 loss 0.1551880223 valid acc 15/16
+ 
+Epoch 14 loss 0.2503983296 valid acc 15/16
+ 
+Epoch 14 loss 0.5568414561 valid acc 16/16
+ 
+Epoch 14 loss 0.2121031736 valid acc 14/16
+ 
+Epoch 14 loss 0.0270891529 valid acc 15/16
+ 
+Epoch 14 loss 0.124843575 valid acc 15/16
+ 
+Epoch 14 loss 0.3516835718 valid acc 15/16
+ 
+Epoch 14 loss 0.4299698901 valid acc 15/16
+ 
+Epoch 14 loss 0.1681657536 valid acc 15/16
+ 
+Epoch 14 loss -0.2572966762 valid acc 15/16
+ 
+Epoch 14 loss 0.4279468174 valid acc 15/16
+ 
+Epoch 14 loss 0.2707341394 valid acc 15/16
+ 
+Epoch 14 loss 0.0741766831 valid acc 15/16
+ 
+Epoch 14 loss 0.4620484372 valid acc 15/16
+ 
+Epoch 14 loss 0.2615790617 valid acc 15/16
+ 
+Epoch 14 loss 0.7207149389 valid acc 15/16
+ 
+Epoch 14 loss 0.5751844938 valid acc 15/16
+ 
+Epoch 14 loss 1.0485266618 valid acc 15/16
+ 
+Epoch 14 loss -0.0454114723 valid acc 15/16
+ 
+Epoch 14 loss -0.1191630996 valid acc 15/16
+ 
+Epoch 14 loss 0.9708225869 valid acc 16/16
+ 
+Epoch 14 loss -0.370533718 valid acc 14/16
+ 
+Epoch 14 loss 0.3797159016 valid acc 15/16
+ 
+Epoch 14 loss 0.2417342074 valid acc 15/16
+ 
+Epoch 14 loss 0.5675768254 valid acc 15/16
+ 
+Epoch 14 loss 0.950457572 valid acc 15/16
+ 
+Epoch 14 loss -0.1686714987 valid acc 14/16
+ 
+Epoch 14 loss 0.2297005424 valid acc 15/16
+ 
+Epoch 14 loss 0.6235755758 valid acc 15/16
+ 
+Epoch 14 loss 0.0610838941 valid acc 15/16
+ 
+Epoch 14 loss 0.1901889352 valid acc 15/16
+ 
+Epoch 14 loss 0.970496927 valid acc 14/16
+ 
+Epoch 14 loss 0.3085542133 valid acc 14/16
+ 
+Epoch 14 loss 0.7288285399 valid acc 15/16
+ 
+Epoch 14 loss -0.0058767324 valid acc 15/16
+ 
+Epoch 14 loss 0.0997914559 valid acc 15/16
+ 
+Epoch 15 loss 0.6406099846 valid acc 15/16
+ 
+Epoch 15 loss 0.6368718406 valid acc 15/16
+ 
+Epoch 15 loss 0.3251106424 valid acc 16/16
+ 
+Epoch 15 loss 1.0952851604 valid acc 16/16
+ 
+Epoch 15 loss -0.2816183363 valid acc 15/16
+ 
+Epoch 15 loss 0.7887004074 valid acc 15/16
+ 
+Epoch 15 loss 0.8873913632 valid acc 13/16
+ 
+Epoch 15 loss 1.2714444387 valid acc 15/16
+ 
+Epoch 15 loss 0.2647752968 valid acc 15/16
+ 
+Epoch 15 loss 0.7716918976 valid acc 14/16
+ 
+Epoch 15 loss -0.0074134687 valid acc 16/16
+ 
+Epoch 15 loss 0.4460312495 valid acc 15/16
+ 
+Epoch 15 loss -0.1931519886 valid acc 14/16
+ 
+Epoch 15 loss 1.1540020349 valid acc 15/16
+ 
+Epoch 15 loss 0.6719282395 valid acc 15/16
+ 
+Epoch 15 loss 0.1775776301 valid acc 15/16
+ 
+Epoch 15 loss 0.5158827359 valid acc 15/16
+ 
+Epoch 15 loss 0.7774348682 valid acc 15/16
+ 
+Epoch 15 loss 1.1849565731 valid acc 15/16
+ 
+Epoch 15 loss 0.4667173836 valid acc 15/16
+ 
+Epoch 15 loss 0.4635967039 valid acc 14/16
+ 
+Epoch 15 loss -0.0790765893 valid acc 15/16
+ 
+Epoch 15 loss -0.3214888395 valid acc 15/16
+ 
+Epoch 15 loss 0.5585088476 valid acc 13/16
+ 
+Epoch 15 loss 0.3988384009 valid acc 14/16
+ 
+Epoch 15 loss -0.2281332227 valid acc 14/16
+ 
+Epoch 15 loss 0.1644304048 valid acc 15/16
+ 
+Epoch 15 loss 0.5371135958 valid acc 15/16
+ 
+Epoch 15 loss -0.0392390028 valid acc 15/16
+ 
+Epoch 15 loss -0.3098551491 valid acc 15/16
+ 
+Epoch 15 loss 0.7000041971 valid acc 15/16
+ 
+Epoch 15 loss 0.5434482828 valid acc 15/16
+ 
+Epoch 15 loss 0.0598491941 valid acc 15/16
+ 
+Epoch 15 loss -0.2921573228 valid acc 15/16
+ 
+Epoch 15 loss 0.283344743 valid acc 14/16
+ 
+Epoch 15 loss -0.0857236072 valid acc 14/16
+ 
+Epoch 15 loss -0.2583417908 valid acc 14/16
+ 
+Epoch 15 loss 0.4527100156 valid acc 15/16
+ 
+Epoch 15 loss 0.0293795961 valid acc 15/16
+ 
+Epoch 15 loss 0.1413872584 valid acc 15/16
+ 
+Epoch 15 loss -0.0623573848 valid acc 15/16
+ 
+Epoch 15 loss 0.435064702 valid acc 16/16
+ 
+Epoch 15 loss 0.2292343514 valid acc 15/16
+ 
+Epoch 15 loss 0.132152955 valid acc 15/16
+ 
+Epoch 15 loss -0.0889063585 valid acc 14/16
+ 
+Epoch 15 loss 0.3419478954 valid acc 15/16
+ 
+Epoch 15 loss 0.5150319138 valid acc 15/16
+ 
+Epoch 15 loss 1.0822377201 valid acc 15/16
+ 
+Epoch 15 loss -0.1704699427 valid acc 15/16
+ 
+Epoch 15 loss 0.4112293826 valid acc 15/16
+ 
+Epoch 15 loss 0.5869007679 valid acc 15/16
+ 
+Epoch 15 loss 0.3030171588 valid acc 16/16
+ 
+Epoch 15 loss 0.7855730504 valid acc 15/16
+ 
+Epoch 15 loss 0.9337244249 valid acc 16/16
+ 
+Epoch 15 loss 0.3521915015 valid acc 16/16
+ 
+Epoch 15 loss 0.0640760378 valid acc 16/16
+ 
+Epoch 15 loss 0.6086248767 valid acc 15/16
+ 
+Epoch 15 loss 0.6167267759 valid acc 15/16
+ 
+Epoch 15 loss -0.0607582958 valid acc 15/16
+ 
+Epoch 15 loss 0.9780138523 valid acc 15/16
+ 
+Epoch 15 loss 0.1100876747 valid acc 14/16
+ 
+Epoch 15 loss 0.3402995182 valid acc 15/16
+ 
+Epoch 15 loss 0.6317661037 valid acc 15/16
+ 
+Epoch 16 loss -0.3143882767 valid acc 14/16
+ 
+Epoch 16 loss -0.0950706283 valid acc 15/16
+ 
+Epoch 16 loss 0.6674791201 valid acc 15/16
+ 
+Epoch 16 loss 0.7308958245 valid acc 15/16
+ 
+Epoch 16 loss -0.0315322661 valid acc 15/16
+ 
+Epoch 16 loss -0.2320929584 valid acc 16/16
+ 
+Epoch 16 loss 0.5516095037 valid acc 16/16
+ 
+Epoch 16 loss 0.9758139118 valid acc 16/16
+ 
+Epoch 16 loss 0.0122376593 valid acc 15/16
+ 
+Epoch 16 loss 0.3598254956 valid acc 15/16
+ 
+Epoch 16 loss 0.1465626912 valid acc 15/16
+ 
+Epoch 16 loss 1.4738293214 valid acc 15/16
+ 
+Epoch 16 loss 0.4124865431 valid acc 15/16
+ 
+Epoch 16 loss 0.6356375281 valid acc 15/16
+ 
+Epoch 16 loss 0.1692530721 valid acc 14/16
+ 
+Epoch 16 loss 0.836925903 valid acc 15/16
+ 
+Epoch 16 loss 0.5417803213 valid acc 14/16
+ 
+Epoch 16 loss 0.1030505405 valid acc 15/16
+ 
+Epoch 16 loss -0.0293015516 valid acc 15/16
+ 
+Epoch 16 loss 0.4372554867 valid acc 15/16
+ 
+Epoch 16 loss 0.9084534473 valid acc 16/16
+ 
+Epoch 16 loss 0.0363364657 valid acc 16/16
+ 
+Epoch 16 loss -0.1018722273 valid acc 15/16
+ 
+Epoch 16 loss 0.2028614153 valid acc 16/16
+ 
+Epoch 16 loss -0.0298822319 valid acc 15/16
+ 
+Epoch 16 loss 0.2425618653 valid acc 16/16
+ 
+Epoch 16 loss 0.9385563083 valid acc 16/16
+ 
+Epoch 16 loss 0.2131719923 valid acc 16/16
+ 
+Epoch 16 loss 1.3890754004 valid acc 15/16
+ 
+Epoch 16 loss 0.6929889774 valid acc 14/16
+ 
+Epoch 16 loss 0.0009291232 valid acc 15/16
+ 
+Epoch 16 loss 0.3237277736 valid acc 15/16
+ 
+Epoch 16 loss 0.4326325288 valid acc 14/16
+ 
+Epoch 16 loss 0.4686193675 valid acc 15/16
+ 
+Epoch 16 loss 0.7207026947 valid acc 15/16
+ 
+Epoch 16 loss -0.0871121064 valid acc 15/16
+ 
+Epoch 16 loss -0.2446275199 valid acc 15/16
+ 
+Epoch 16 loss 0.4116263528 valid acc 15/16
+ 
+Epoch 16 loss 0.1385590128 valid acc 16/16
+ 
+Epoch 16 loss 0.1411363592 valid acc 15/16
+ 
+Epoch 16 loss 0.2287322101 valid acc 15/16
+ 
+Epoch 16 loss 0.3735964215 valid acc 16/16
+ 
+Epoch 16 loss 0.0993936425 valid acc 16/16
+ 
+Epoch 16 loss 1.0040424022 valid acc 14/16
+ 
+Epoch 16 loss -0.1572507877 valid acc 15/16
+ 
+Epoch 16 loss -0.4834837821 valid acc 16/16
+ 
+Epoch 16 loss -0.2559672682 valid acc 15/16
+ 
+Epoch 16 loss 0.6539855001 valid acc 15/16
+ 
+Epoch 16 loss 0.7551154 valid acc 15/16
+ 
+Epoch 16 loss 0.5277249584 valid acc 15/16
+ 
+Epoch 16 loss 0.2309014711 valid acc 14/16
+ 
+Epoch 16 loss -0.077533151 valid acc 15/16
+ 
+Epoch 16 loss -0.2832399368 valid acc 15/16
+ 
+Epoch 16 loss 1.0963901385 valid acc 14/16
+ 
+Epoch 16 loss 1.0380496797 valid acc 15/16
+ 
+Epoch 16 loss 0.0509218548 valid acc 15/16
+ 
+Epoch 16 loss 0.0985689722 valid acc 14/16
+ 
+Epoch 16 loss 0.4369081514 valid acc 14/16
+ 
+Epoch 16 loss 0.2462924102 valid acc 14/16
+ 
+Epoch 16 loss 1.8035671569 valid acc 15/16
+ 
+Epoch 16 loss 0.5357257519 valid acc 15/16
+ 
+Epoch 16 loss 0.6587935689 valid acc 14/16
+ 
+Epoch 16 loss 0.0987931087 valid acc 14/16
+ 
+Epoch 17 loss 0.3972329498 valid acc 15/16
+ 
+Epoch 17 loss -0.0504370795 valid acc 14/16
+ 
+Epoch 17 loss -0.3692017077 valid acc 15/16
+ 
+Epoch 17 loss 0.0429562525 valid acc 15/16
+ 
+Epoch 17 loss 0.3436179818 valid acc 15/16
+ 
+Epoch 17 loss 0.7550058907 valid acc 15/16
+ 
+Epoch 17 loss 1.0161463967 valid acc 15/16
+ 
+Epoch 17 loss -0.1336684906 valid acc 15/16
+ 
+Epoch 17 loss 1.1592552924 valid acc 14/16
+ 
+Epoch 17 loss 0.96292406 valid acc 15/16
+ 
+Epoch 17 loss 0.0436011754 valid acc 13/16
+ 
+Epoch 17 loss 0.5873068134 valid acc 15/16
+ 
+Epoch 17 loss 0.7726551092 valid acc 15/16
+ 
+Epoch 17 loss 0.0500005783 valid acc 15/16
+ 
+Epoch 17 loss 0.5790529333 valid acc 14/16
+ 
+Epoch 17 loss -0.1587966063 valid acc 15/16
+ 
+Epoch 17 loss 0.6052075358 valid acc 15/16
+ 
+Epoch 17 loss 0.4023402806 valid acc 15/16
+ 
+Epoch 17 loss -0.2255191497 valid acc 15/16
+ 
+Epoch 17 loss 0.3137974639 valid acc 15/16
+ 
+Epoch 17 loss 0.0628675842 valid acc 15/16
+ 
+Epoch 17 loss -0.0468015826 valid acc 15/16
+ 
+Epoch 17 loss 0.8959897968 valid acc 15/16
+ 
+Epoch 17 loss 0.3704443486 valid acc 15/16
+ 
+Epoch 17 loss 0.6440245993 valid acc 15/16
+ 
+Epoch 17 loss -0.1657224185 valid acc 15/16
+ 
+Epoch 17 loss 0.2576986732 valid acc 15/16
+ 
+Epoch 17 loss 0.2911297245 valid acc 15/16
+ 
+Epoch 17 loss -0.1024152491 valid acc 15/16
+ 
+Epoch 17 loss 0.2515122935 valid acc 15/16
+ 
+Epoch 17 loss 0.590624503 valid acc 14/16
+ 
+Epoch 17 loss 0.449517282 valid acc 15/16
+ 
+Epoch 17 loss 0.3451360578 valid acc 15/16
+ 
+Epoch 17 loss 0.8093919581 valid acc 15/16
+ 
+Epoch 17 loss 0.4202654034 valid acc 15/16
+ 
+Epoch 17 loss 0.2752478388 valid acc 15/16
+ 
+Epoch 17 loss 0.6402304506 valid acc 16/16
+ 
+Epoch 17 loss 0.5914274032 valid acc 14/16
+ 
+Epoch 17 loss -0.2037452666 valid acc 15/16
+ 
+Epoch 17 loss 0.8246575541 valid acc 14/16
+ 
+Epoch 17 loss 0.6184059316 valid acc 15/16
+ 
+Epoch 17 loss 0.0351015897 valid acc 14/16
+ 
+Epoch 17 loss 0.3663603378 valid acc 15/16
+ 
+Epoch 17 loss 0.3249668472 valid acc 15/16
+ 
+Epoch 17 loss 0.0421207046 valid acc 15/16
+ 
+Epoch 17 loss -0.3475430093 valid acc 15/16
+ 
+Epoch 17 loss 0.146029313 valid acc 15/16
+ 
+Epoch 17 loss 0.4235678675 valid acc 16/16
+ 
+Epoch 17 loss 0.2576758663 valid acc 16/16
+ 
+Epoch 17 loss 0.4261250794 valid acc 16/16
+ 
+Epoch 17 loss 0.7171274723 valid acc 15/16
+ 
+Epoch 17 loss 0.8424176057 valid acc 14/16
+ 
+Epoch 17 loss 0.0383355987 valid acc 15/16
+ 
+Epoch 17 loss 0.0958453528 valid acc 14/16
+ 
+Epoch 17 loss 0.079416608 valid acc 14/16
+ 
+Epoch 17 loss 0.0362535911 valid acc 15/16
+ 
+Epoch 17 loss 0.0030729488 valid acc 15/16
+ 
+Epoch 17 loss 0.4899073042 valid acc 15/16
+ 
+Epoch 17 loss -0.1859393513 valid acc 14/16
+ 
+Epoch 17 loss 0.0784359343 valid acc 15/16
+ 
+Epoch 17 loss 0.5871065087 valid acc 15/16
+ 
+Epoch 17 loss 0.7757213157 valid acc 15/16
+ 
+Epoch 17 loss 0.6298816918 valid acc 15/16
+ 
+Epoch 18 loss -0.09771524 valid acc 14/16
+ 
+Epoch 18 loss 0.2580909325 valid acc 14/16
+ 
+Epoch 18 loss 0.5476492062 valid acc 15/16
+ 
+Epoch 18 loss 0.400827293 valid acc 14/16
+ 
+Epoch 18 loss 0.1805254903 valid acc 15/16
+ 
+Epoch 18 loss 0.2415602975 valid acc 14/16
+ 
+Epoch 18 loss 0.3723698109 valid acc 13/16
+ 
+Epoch 18 loss 1.3371227031 valid acc 14/16
+ 
+Epoch 18 loss 0.4208653464 valid acc 14/16
+ 
+Epoch 18 loss 0.1238229561 valid acc 14/16
+ 
+Epoch 18 loss 0.2594603604 valid acc 14/16
+ 
+Epoch 18 loss -0.0530536465 valid acc 15/16
+ 
+Epoch 18 loss -0.0060070664 valid acc 14/16
+ 
+Epoch 18 loss 0.0640780636 valid acc 14/16
+ 
+Epoch 18 loss 0.1328169919 valid acc 15/16
+ 
+Epoch 18 loss 0.0750459859 valid acc 14/16
+ 
+Epoch 18 loss 0.6757158622 valid acc 14/16
+ 
+Epoch 18 loss 0.5731530116 valid acc 15/16
+ 
+Epoch 18 loss 0.5872358451 valid acc 14/16
+ 
+Epoch 18 loss 0.0803434422 valid acc 15/16
+ 
+Epoch 18 loss 0.0518237998 valid acc 15/16
+ 
+Epoch 18 loss -0.3924607369 valid acc 15/16
+ 
+Epoch 18 loss 0.2001200685 valid acc 15/16
+ 
+Epoch 18 loss 0.6278911635 valid acc 15/16
+ 
+Epoch 18 loss 0.129553792 valid acc 14/16
+ 
+Epoch 18 loss 0.7808070621 valid acc 14/16
+ 
+Epoch 18 loss 0.413402495 valid acc 14/16
+ 
+Epoch 18 loss -0.2230381535 valid acc 16/16
+ 
+Epoch 18 loss 0.2644442189 valid acc 15/16
+ 
+Epoch 18 loss -0.0357160865 valid acc 16/16
+ 
+Epoch 18 loss 0.034962669 valid acc 16/16
+ 
+Epoch 18 loss 0.0478708915 valid acc 15/16
+ 
+Epoch 18 loss 0.5256400309 valid acc 14/16
+ 
+Epoch 18 loss 0.4804701532 valid acc 15/16
+ 
+Epoch 18 loss 0.5089183253 valid acc 15/16
+ 
+Epoch 18 loss 0.4912596032 valid acc 15/16
+ 
+Epoch 18 loss 0.641877078 valid acc 15/16
+ 
+Epoch 18 loss 0.9296563902 valid acc 16/16
+ 
+Epoch 18 loss 0.0316158167 valid acc 13/16
+ 
+Epoch 18 loss 0.709583972 valid acc 15/16
+ 
+Epoch 18 loss 0.5530685754 valid acc 15/16
+ 
+Epoch 18 loss -0.1500577862 valid acc 15/16
+ 
+Epoch 18 loss -0.075864618 valid acc 13/16
+ 
+Epoch 18 loss 0.4433814732 valid acc 14/16
+ 
+Epoch 18 loss -0.1163209229 valid acc 14/16
+ 
+Epoch 18 loss 0.2656914419 valid acc 15/16
+ 
+Epoch 18 loss 0.5342527806 valid acc 15/16
+ 
+Epoch 18 loss 0.2256672672 valid acc 15/16
+ 
+Epoch 18 loss 0.3956136716 valid acc 15/16
+ 
+Epoch 18 loss 0.0592373364 valid acc 15/16
+ 
+Epoch 18 loss -0.2784468472 valid acc 15/16
+ 
+Epoch 18 loss -0.2828308726 valid acc 15/16
+ 
+Epoch 18 loss 0.2486375025 valid acc 15/16
+ 
+Epoch 18 loss 0.0874911141 valid acc 15/16
+ 
+Epoch 18 loss 0.2143590486 valid acc 15/16
+ 
+Epoch 18 loss 0.50016121 valid acc 15/16
+ 
+Epoch 18 loss 0.7320692748 valid acc 15/16
+ 
+Epoch 18 loss 0.5339217995 valid acc 15/16
+ 
+Epoch 18 loss 0.565776129 valid acc 14/16
+ 
+Epoch 18 loss -0.0065662564 valid acc 15/16
+ 
+Epoch 18 loss -0.3643601923 valid acc 15/16
+ 
+Epoch 18 loss 0.2367220541 valid acc 14/16
+ 
+Epoch 18 loss 0.5445533488 valid acc 14/16
+ 
+Epoch 19 loss -0.0281123338 valid acc 15/16
+ 
+Epoch 19 loss -0.083979059 valid acc 15/16
+ 
+Epoch 19 loss 0.8269837323 valid acc 15/16
+ 
+Epoch 19 loss 0.4449933817 valid acc 15/16
+ 
+Epoch 19 loss -0.163386869 valid acc 14/16
+ 
+Epoch 19 loss 0.5864041747 valid acc 14/16
+ 
+Epoch 19 loss 0.3252411624 valid acc 14/16
+ 
+Epoch 19 loss 0.6158891838 valid acc 14/16
+ 
+Epoch 19 loss 0.3772785852 valid acc 14/16
+ 
+Epoch 19 loss 0.5346597548 valid acc 14/16
+ 
+Epoch 19 loss 0.3298850846 valid acc 15/16
+ 
+Epoch 19 loss 0.7506182844 valid acc 15/16
+ 
+Epoch 19 loss -0.3011731776 valid acc 15/16
+ 
+Epoch 19 loss -0.3406202849 valid acc 15/16
+ 
+Epoch 19 loss 0.2336135087 valid acc 15/16
+ 
+Epoch 19 loss -0.2613168908 valid acc 15/16
+ 
+Epoch 19 loss 0.8936565814 valid acc 16/16
+ 
+Epoch 19 loss 0.289113782 valid acc 15/16
+ 
+Epoch 19 loss 0.5964004085 valid acc 15/16
+ 
+Epoch 19 loss -0.2324073003 valid acc 15/16
+ 
+Epoch 19 loss 0.301349389 valid acc 15/16
+ 
+Epoch 19 loss -0.2642708656 valid acc 15/16
+ 
+Epoch 19 loss -0.1497822189 valid acc 15/16
+ 
+Epoch 19 loss 0.9426783769 valid acc 15/16
+ 
+Epoch 19 loss 0.3790183417 valid acc 15/16
+ 
+Epoch 19 loss 0.5809028839 valid acc 15/16
+ 
+Epoch 19 loss 0.7075659898 valid acc 14/16
+ 
+Epoch 19 loss 0.1401332926 valid acc 14/16
+ 
+Epoch 19 loss -0.0472254791 valid acc 14/16
+ 
+Epoch 19 loss 0.5240433833 valid acc 14/16
+ 
+Epoch 19 loss 0.1827079989 valid acc 14/16
+ 
+Epoch 19 loss 0.1727111251 valid acc 14/16
+ 
+Epoch 19 loss 0.3410522712 valid acc 13/16
+ 
+Epoch 19 loss 0.9733861746 valid acc 15/16
+ 
+Epoch 19 loss 0.0534649677 valid acc 15/16
+ 
+Epoch 19 loss -0.2748057348 valid acc 15/16
+ 
+Epoch 19 loss -0.0855040581 valid acc 14/16
+ 
+Epoch 19 loss -0.237092148 valid acc 15/16
+ 
+Epoch 19 loss 0.6235253112 valid acc 16/16
+ 
+Epoch 19 loss -0.2891980142 valid acc 15/16
+ 
+Epoch 19 loss -0.3840203961 valid acc 15/16
+ 
+Epoch 19 loss 0.0080536961 valid acc 16/16
+ 
+Epoch 19 loss 0.0780576587 valid acc 15/16
+ 
+Epoch 19 loss 0.0862857909 valid acc 15/16
+ 
+Epoch 19 loss -0.1092669865 valid acc 15/16
+ 
+Epoch 19 loss 0.1061185533 valid acc 15/16
+ 
+Epoch 19 loss 0.5007171639 valid acc 16/16
+ 
+Epoch 19 loss 0.7625539745 valid acc 15/16
+ 
+Epoch 19 loss 0.5655393318 valid acc 15/16
+ 
+Epoch 19 loss 0.4303301853 valid acc 14/16
+ 
+Epoch 19 loss 0.3394588159 valid acc 14/16
+ 
+Epoch 19 loss -0.1291496716 valid acc 15/16
+ 
+Epoch 19 loss 0.1256823974 valid acc 14/16
+ 
+Epoch 19 loss 0.4330026763 valid acc 15/16
+ 
+Epoch 19 loss 0.763724478 valid acc 15/16
+ 
+Epoch 19 loss -0.2053603288 valid acc 15/16
+ 
+Epoch 19 loss 0.6141507449 valid acc 14/16
+ 
+Epoch 19 loss 1.1199758423 valid acc 14/16
+ 
+Epoch 19 loss -0.0796116054 valid acc 14/16
+ 
+Epoch 19 loss 0.6259629208 valid acc 15/16
+ 
+Epoch 19 loss -0.2041301812 valid acc 15/16
+ 
+Epoch 19 loss 0.1416053289 valid acc 16/16
+ 
+Epoch 19 loss -0.0560625203 valid acc 15/16
+ 
+Epoch 20 loss -0.3895780026 valid acc 15/16
+ 
+Epoch 20 loss -0.0372326355 valid acc 15/16
+ 
+Epoch 20 loss 0.0943384338 valid acc 15/16
+ 
+Epoch 20 loss 0.0393220116 valid acc 15/16
+ 
+Epoch 20 loss 0.3626476407 valid acc 15/16
+ 
+Epoch 20 loss 0.1611151977 valid acc 15/16
+ 
+Epoch 20 loss 0.1224903159 valid acc 15/16
+ 
+Epoch 20 loss -0.0035643686 valid acc 14/16
+ 
+Epoch 20 loss 0.9922982849 valid acc 15/16
+ 
+Epoch 20 loss 0.3604356982 valid acc 16/16
+ 
+Epoch 20 loss -0.0700959389 valid acc 16/16
+ 
+Epoch 20 loss 0.2694683659 valid acc 15/16
+ 
+Epoch 20 loss 0.2045970824 valid acc 16/16
+ 
+Epoch 20 loss -0.0295397672 valid acc 16/16
+ 
+Epoch 20 loss -0.3364511549 valid acc 15/16
+ 
+Epoch 20 loss 0.0014272694 valid acc 16/16
+ 
+Epoch 20 loss -0.065091841 valid acc 15/16
+ 
+Epoch 20 loss -0.1916712846 valid acc 15/16
+ 
+Epoch 20 loss 0.2110928908 valid acc 16/16
+ 
+Epoch 20 loss 0.7484198398 valid acc 15/16
+ 
+Epoch 20 loss -0.3866340735 valid acc 15/16
+ 
+Epoch 20 loss 0.3007268047 valid acc 15/16
+ 
+Epoch 20 loss -0.2167100608 valid acc 15/16
+ 
+Epoch 20 loss 0.4864236726 valid acc 16/16
+ 
+Epoch 20 loss -0.0938980593 valid acc 15/16
+ 
+Epoch 20 loss 0.4986855769 valid acc 15/16
+ 
+Epoch 20 loss 0.5189000747 valid acc 16/16
+ 
+Epoch 20 loss 0.2060649795 valid acc 16/16
+ 
+Epoch 20 loss -0.4596026862 valid acc 16/16
+ 
+Epoch 20 loss -0.1410159823 valid acc 16/16
+ 
+Epoch 20 loss 0.1721876516 valid acc 14/16
+ 
+Epoch 20 loss 0.0348607068 valid acc 14/16
+ 
+Epoch 20 loss 0.1304835647 valid acc 15/16
+ 
+Epoch 20 loss 0.5515913545 valid acc 15/16
+ 
+Epoch 20 loss 0.6386774435 valid acc 15/16
+ 
+Epoch 20 loss 0.4413411912 valid acc 15/16
+ 
+Epoch 20 loss -0.0706458735 valid acc 16/16
+ 
+Epoch 20 loss -0.3088085119 valid acc 15/16
+ 
+Epoch 20 loss 0.489227094 valid acc 16/16
+ 
+Epoch 20 loss 0.1598337664 valid acc 15/16
+ 
+Epoch 20 loss 0.4264126932 valid acc 15/16
+ 
+Epoch 20 loss 0.1578095607 valid acc 15/16
+ 
+Epoch 20 loss -0.2827294529 valid acc 15/16
+ 
+Epoch 20 loss 0.4496646241 valid acc 16/16
+ 
+Epoch 20 loss 0.2008160849 valid acc 15/16
+ 
+Epoch 20 loss 0.3099555705 valid acc 14/16
+ 
+Epoch 20 loss -0.3108318421 valid acc 16/16
+ 
+Epoch 20 loss 0.1663372493 valid acc 16/16
+ 
+Epoch 20 loss 0.1401928558 valid acc 15/16
+ 
+Epoch 20 loss 0.4610492853 valid acc 16/16
+ 
+Epoch 20 loss 0.4658612469 valid acc 16/16
+ 
+Epoch 20 loss -0.0774248163 valid acc 15/16
+ 
+Epoch 20 loss -0.212141894 valid acc 16/16
+ 
+Epoch 20 loss 0.1403303217 valid acc 15/16
+ 
+Epoch 20 loss -0.0708943297 valid acc 14/16
+ 
+Epoch 20 loss 0.7743677108 valid acc 16/16
+ 
+Epoch 20 loss 0.7188622865 valid acc 16/16
+ 
+Epoch 20 loss 0.581413564 valid acc 15/16
+ 
+Epoch 20 loss 0.28674108 valid acc 15/16
+ 
+Epoch 20 loss -0.0460873584 valid acc 14/16
+ 
+Epoch 20 loss 0.0387259449 valid acc 15/16
+ 
+Epoch 20 loss 0.5569172593 valid acc 16/16
+ 
+Epoch 20 loss -0.07874283 valid acc 15/16
+ 
+Epoch 21 loss -0.0084621288 valid acc 16/16
+ 
+Epoch 21 loss -0.3283066486 valid acc 14/16
+ 
+Epoch 21 loss 0.1851140585 valid acc 15/16
+ 
+Epoch 21 loss 0.2527556881 valid acc 16/16
+ 
+Epoch 21 loss 0.9513949212 valid acc 16/16
+ 
+Epoch 21 loss 0.0812569741 valid acc 15/16
+ 
+Epoch 21 loss 0.5855737962 valid acc 15/16
+ 
+Epoch 21 loss 0.2364467871 valid acc 15/16
+ 
+Epoch 21 loss 0.0099761047 valid acc 16/16
+ 
+Epoch 21 loss 0.0485540142 valid acc 16/16
+ 
+Epoch 21 loss -0.0344443395 valid acc 15/16
+ 
+Epoch 21 loss 0.6056991741 valid acc 16/16
+ 
+Epoch 21 loss -0.2634362517 valid acc 16/16
+ 
+Epoch 21 loss 0.6122099488 valid acc 16/16
+ 
+Epoch 21 loss 0.1387181321 valid acc 16/16
+ 
+Epoch 21 loss 0.6176200801 valid acc 15/16
+ 
+Epoch 21 loss 0.2059051894 valid acc 15/16
+ 
+Epoch 21 loss 0.2333464571 valid acc 15/16
+ 
+Epoch 21 loss 0.4209945955 valid acc 14/16
+ 
+Epoch 21 loss 0.3715570326 valid acc 16/16
+ 
+Epoch 21 loss -0.173437855 valid acc 15/16
+ 
+Epoch 21 loss 0.2300897181 valid acc 16/16
+ 
+Epoch 21 loss -0.0464495418 valid acc 15/16
+ 
+Epoch 21 loss 0.2715254049 valid acc 15/16
+ 
+Epoch 21 loss -0.0397021339 valid acc 14/16
+ 
+Epoch 21 loss -0.0522091196 valid acc 14/16
+ 
+Epoch 21 loss -0.1965883657 valid acc 16/16
+ 
+Epoch 21 loss 0.0521858476 valid acc 13/16
+ 
+Epoch 21 loss 0.008719479 valid acc 15/16
+ 
+Epoch 21 loss -0.3213685072 valid acc 16/16
+ 
+Epoch 21 loss 0.3385981797 valid acc 16/16
+ 
+Epoch 21 loss -0.2496031652 valid acc 15/16
+ 
+Epoch 21 loss 0.0411049483 valid acc 16/16
+ 
+Epoch 21 loss 0.6682256359 valid acc 15/16
+ 
+Epoch 21 loss -0.1146943022 valid acc 15/16
+ 
+Epoch 21 loss 0.0236282448 valid acc 16/16
+ 
+Epoch 21 loss 0.0297424477 valid acc 16/16
+ 
+Epoch 21 loss -0.0802483982 valid acc 15/16
+ 
+Epoch 21 loss 0.5664683528 valid acc 16/16
+ 
+Epoch 21 loss -0.4458637413 valid acc 15/16
+ 
+Epoch 21 loss 0.0927166141 valid acc 16/16
+ 
+Epoch 21 loss -0.1116136211 valid acc 16/16
+ 
+Epoch 21 loss 0.259307629 valid acc 15/16
+ 
+Epoch 21 loss 0.5203720858 valid acc 16/16
+ 
+Epoch 21 loss -0.0996579485 valid acc 15/16
+ 
+Epoch 21 loss -0.1205627247 valid acc 15/16
+ 
+Epoch 21 loss 0.6939274049 valid acc 15/16
+ 
+Epoch 21 loss 0.4773057128 valid acc 14/16
+ 
+Epoch 21 loss 0.0389466195 valid acc 15/16
+ 
+Epoch 21 loss 0.3450760205 valid acc 16/16
+ 
+Epoch 21 loss 0.6788968734 valid acc 14/16
+ 
+Epoch 21 loss 0.12503234 valid acc 16/16
+ 
+Epoch 21 loss -0.0357938305 valid acc 14/16
+ 
+Epoch 21 loss 0.0985832521 valid acc 15/16
+ 
+Epoch 21 loss 0.5554290434 valid acc 15/16
+ 
+Epoch 21 loss -0.2198419146 valid acc 14/16
+ 
+Epoch 21 loss 0.1083197134 valid acc 15/16
+ 
+Epoch 21 loss 0.1635120967 valid acc 15/16
+ 
+Epoch 21 loss -0.0229808682 valid acc 15/16
+ 
+Epoch 21 loss 0.0537602238 valid acc 15/16
+ 
+Epoch 21 loss 0.3185682893 valid acc 14/16
+ 
+Epoch 21 loss 0.150076751 valid acc 15/16
+ 
+Epoch 21 loss 0.425016734 valid acc 15/16
+ 
+Epoch 22 loss -0.2631916305 valid acc 16/16
+ 
+Epoch 22 loss 0.4927669404 valid acc 14/16
+ 
+Epoch 22 loss 0.5585105026 valid acc 16/16
+ 
+Epoch 22 loss 0.434673391 valid acc 15/16
+ 
+Epoch 22 loss -0.0638605702 valid acc 16/16
+ 
+Epoch 22 loss 0.2271292348 valid acc 15/16
+ 
+Epoch 22 loss 1.1389278177 valid acc 15/16
+ 
+Epoch 22 loss 0.8719244981 valid acc 15/16
+ 
+Epoch 22 loss 0.4324347628 valid acc 15/16
+ 
+Epoch 22 loss 0.2073495344 valid acc 15/16
+ 
+Epoch 22 loss 0.1527600594 valid acc 15/16
+ 
+Epoch 22 loss 0.837269188 valid acc 15/16
+ 
+Epoch 22 loss 0.1863687454 valid acc 14/16
+ 
+Epoch 22 loss 0.4085975346 valid acc 14/16
+ 
+Epoch 22 loss 0.4195322781 valid acc 15/16
+ 
+Epoch 22 loss 0.3819196364 valid acc 15/16
+ 
+Epoch 22 loss 0.2183222738 valid acc 14/16
+ 
+Epoch 22 loss 0.8096894724 valid acc 15/16
+ 
+Epoch 22 loss -0.0477848012 valid acc 15/16
+ 
+Epoch 22 loss -0.2231745668 valid acc 15/16
+ 
+Epoch 22 loss 0.5495302029 valid acc 13/16
+ 
+Epoch 22 loss 0.2337888043 valid acc 16/16
+ 
+Epoch 22 loss 0.1483789384 valid acc 13/16
+ 
+Epoch 22 loss 0.4674782143 valid acc 12/16
+ 
+Epoch 22 loss 0.4149328412 valid acc 13/16
+ 
+Epoch 22 loss 0.5015621788 valid acc 14/16
+ 
+Epoch 22 loss 0.4454053454 valid acc 15/16
+ 
+Epoch 22 loss 0.208486143 valid acc 14/16
+ 
+Epoch 22 loss -0.4104620359 valid acc 14/16
+ 
+Epoch 22 loss 0.2749241378 valid acc 14/16
+ 
+Epoch 22 loss 0.1448734479 valid acc 15/16
+ 
+Epoch 22 loss 0.4602680182 valid acc 15/16
+ 
+Epoch 22 loss 0.6442523154 valid acc 14/16
+ 
+Epoch 22 loss 0.000551955 valid acc 14/16
+ 
+Epoch 22 loss -0.2265927591 valid acc 15/16
+ 
+Epoch 22 loss 0.4469263082 valid acc 15/16
+ 
+Epoch 22 loss 0.3972988259 valid acc 15/16
+ 
+Epoch 22 loss 0.5317556222 valid acc 15/16
+ 
+Epoch 22 loss 0.5993737441 valid acc 15/16
+ 
+Epoch 22 loss -0.1207562017 valid acc 14/16
+ 
+Epoch 22 loss 0.4230740225 valid acc 14/16
+ 
+Epoch 22 loss -0.2129043759 valid acc 14/16
+ 
+Epoch 22 loss 0.3046997782 valid acc 14/16
+ 
+Epoch 22 loss 0.4058989611 valid acc 14/16
+ 
+Epoch 22 loss 0.254826643 valid acc 14/16
+ 
+Epoch 22 loss -0.3757232634 valid acc 16/16
+ 
+Epoch 22 loss -0.3282943509 valid acc 14/16
+ 
+Epoch 22 loss 0.5335137613 valid acc 15/16
+ 
+Epoch 22 loss 0.4325884293 valid acc 15/16
+ 
+Epoch 22 loss 0.5081661575 valid acc 15/16
+ 
+Epoch 22 loss 0.0152641052 valid acc 14/16
+ 
+Epoch 22 loss -0.0930318593 valid acc 14/16
+ 
+Epoch 22 loss 0.8909164264 valid acc 15/16
+ 
+Epoch 22 loss 0.4805262491 valid acc 15/16
+ 
+Epoch 22 loss 0.6150322301 valid acc 15/16
+ 
+Epoch 22 loss -0.0224236115 valid acc 15/16
+ 
+Epoch 22 loss 0.4175890365 valid acc 14/16
+ 
+Epoch 22 loss 0.8454945555 valid acc 14/16
+ 
+Epoch 22 loss 0.2230024972 valid acc 15/16
+ 
+Epoch 22 loss -0.2659675075 valid acc 15/16
+ 
+Epoch 22 loss 0.4690557552 valid acc 15/16
+ 
+Epoch 22 loss 0.0262094497 valid acc 14/16
+ 
+Epoch 22 loss 0.8187242116 valid acc 15/16
+ 
+Epoch 23 loss -0.193241613 valid acc 15/16
+ 
+Epoch 23 loss 0.101810673 valid acc 15/16
+ 
+Epoch 23 loss 0.4586283637 valid acc 14/16
+ 
+Epoch 23 loss -0.0578881753 valid acc 15/16
+ 
+Epoch 23 loss 0.2209776381 valid acc 14/16
+ 
+Epoch 23 loss 0.457577998 valid acc 15/16
+ 
+Epoch 23 loss 0.4721800474 valid acc 15/16
+ 
+Epoch 23 loss 0.6353026894 valid acc 15/16
+ 
+Epoch 23 loss -0.3031410391 valid acc 15/16
+ 
+Epoch 23 loss 0.1088905938 valid acc 14/16
+ 
+Epoch 23 loss -0.1984790218 valid acc 15/16
+ 
+Epoch 23 loss 0.0668936279 valid acc 14/16
+ 
+Epoch 23 loss 0.6073387564 valid acc 15/16
+ 
+Epoch 23 loss 0.3303900272 valid acc 14/16
+ 
+Epoch 23 loss 0.179889133 valid acc 16/16
+ 
+Epoch 23 loss 0.4482301465 valid acc 16/16
+ 
+Epoch 23 loss 0.1148322058 valid acc 15/16
+ 
+Epoch 23 loss 0.4208082822 valid acc 15/16
+ 
+Epoch 23 loss -0.021732093 valid acc 15/16
+ 
+Epoch 23 loss 0.2881304481 valid acc 15/16
+ 
+Epoch 23 loss 0.4701336075 valid acc 15/16
+ 
+Epoch 23 loss 0.5104065062 valid acc 15/16
+ 
+Epoch 23 loss 0.2535260015 valid acc 15/16
+ 
+Epoch 23 loss -0.316027457 valid acc 15/16
+ 
+Epoch 23 loss 0.5732360255 valid acc 14/16
+ 
+Epoch 23 loss 0.3986717639 valid acc 15/16
+ 
+Epoch 23 loss -0.2263162811 valid acc 14/16
+ 
+Epoch 23 loss -0.0530003924 valid acc 16/16
+ 
+Epoch 23 loss 1.3486530441 valid acc 15/16
+ 
+Epoch 23 loss -0.0879886249 valid acc 15/16
+ 
+Epoch 23 loss -0.0319167164 valid acc 14/16
+ 
+Epoch 23 loss -0.1461175209 valid acc 15/16
+ 
+Epoch 23 loss 0.0508256778 valid acc 15/16
+ 
+Epoch 23 loss 0.0295937488 valid acc 14/16
+ 
+Epoch 23 loss 0.3569814344 valid acc 15/16
+ 
+Epoch 23 loss 0.4388788374 valid acc 15/16
+ 
+Epoch 23 loss 0.4452392609 valid acc 15/16
+ 
+Epoch 23 loss -0.2436486399 valid acc 15/16
+ 
+Epoch 23 loss 0.0667914175 valid acc 16/16
+ 
+Epoch 23 loss 0.6829707964 valid acc 15/16
+ 
+Epoch 23 loss -0.0171373817 valid acc 15/16
+ 
+Epoch 23 loss 0.3801441089 valid acc 15/16
+ 
+Epoch 23 loss 0.080404875 valid acc 14/16
+ 
+Epoch 23 loss -0.0095158727 valid acc 14/16
+ 
+Epoch 23 loss 0.7807936766 valid acc 16/16
+ 
+Epoch 23 loss 0.0411919842 valid acc 15/16
+ 
+Epoch 23 loss 0.0920212399 valid acc 14/16
+ 
+Epoch 23 loss 0.5389087415 valid acc 13/16
+ 
+Epoch 23 loss 0.3814062892 valid acc 15/16
+ 
+Epoch 23 loss -0.0922620461 valid acc 14/16
+ 
+Epoch 23 loss 0.7925779896 valid acc 15/16
+ 
+Epoch 23 loss 0.7436529871 valid acc 15/16
+ 
+Epoch 23 loss 0.78676748 valid acc 14/16
+ 
+Epoch 23 loss 0.4453514288 valid acc 15/16
+ 
+Epoch 23 loss 0.0305263832 valid acc 15/16
+ 
+Epoch 23 loss 0.6243151879 valid acc 15/16
+ 
+Epoch 23 loss 0.2703410999 valid acc 15/16
+ 
+Epoch 23 loss 0.1282198728 valid acc 15/16
+ 
+Epoch 23 loss 0.438338521 valid acc 15/16
+ 
+Epoch 23 loss -0.3873096503 valid acc 14/16
+ 
+Epoch 23 loss 0.388222427 valid acc 14/16
+ 
+Epoch 23 loss -0.4710535283 valid acc 15/16
+ 
+Epoch 23 loss -0.1944003294 valid acc 14/16
+ 
+Epoch 24 loss 0.0670723901 valid acc 14/16
+ 
+Epoch 24 loss 0.5659601648 valid acc 14/16
+ 
+Epoch 24 loss -0.1306282818 valid acc 15/16
+ 
+Epoch 24 loss -0.3060927194 valid acc 15/16
+ 
+Epoch 24 loss 0.4856528903 valid acc 15/16
+ 
+Epoch 24 loss -0.0225515954 valid acc 16/16
+ 
+Epoch 24 loss 0.4950011234 valid acc 14/16
+ 
+Epoch 24 loss 1.2290525088 valid acc 14/16
+ 
+Epoch 24 loss 1.0949318271 valid acc 15/16
+ 
+Epoch 24 loss -0.0078892068 valid acc 15/16
+ 
+Epoch 24 loss 0.6217251815 valid acc 14/16
+ 
+Epoch 24 loss 0.783314632 valid acc 15/16
+ 
+Epoch 24 loss -0.0200163172 valid acc 14/16
+ 
+Epoch 24 loss 0.2502990643 valid acc 14/16
+ 
+Epoch 24 loss -0.2772362187 valid acc 15/16
+ 
+Epoch 24 loss 0.3386474684 valid acc 16/16
+ 
+Epoch 24 loss 0.3515945637 valid acc 15/16
+ 
+Epoch 24 loss 0.2790587163 valid acc 15/16
+ 
+Epoch 24 loss 0.311352925 valid acc 16/16
+ 
+Epoch 24 loss 0.2657128426 valid acc 15/16
+ 
+Epoch 24 loss 1.0122460481 valid acc 15/16
+ 
+Epoch 24 loss 0.0257968547 valid acc 15/16
+ 
+Epoch 24 loss -0.3808833546 valid acc 15/16
+ 
+Epoch 24 loss -0.3586601428 valid acc 14/16
+ 
+Epoch 24 loss 0.2568873985 valid acc 14/16
+ 
+Epoch 24 loss -0.0224386362 valid acc 14/16
+ 
+Epoch 24 loss -0.2679563745 valid acc 14/16
+ 
+Epoch 24 loss 0.080979112 valid acc 14/16
+ 
+Epoch 24 loss -0.012072226 valid acc 14/16
+ 
+Epoch 24 loss 0.8932319151 valid acc 15/16
+ 
+Epoch 24 loss 0.5551604868 valid acc 15/16
+ 
+Epoch 24 loss 0.8867963711 valid acc 13/16
+ 
+Epoch 24 loss 0.5078522509 valid acc 14/16
+ 
+Epoch 24 loss 1.1696328255 valid acc 15/16
+ 
+Epoch 24 loss 0.1964012695 valid acc 14/16
+ 
+Epoch 24 loss 0.5660167649 valid acc 15/16
+ 
+Epoch 24 loss -0.1792611853 valid acc 16/16
+ 
+Epoch 24 loss 0.5452164448 valid acc 16/16
+ 
+Epoch 24 loss 0.0134359681 valid acc 14/16
+ 
+Epoch 24 loss -0.1002198683 valid acc 16/16
+ 
+Epoch 24 loss 0.0274502926 valid acc 16/16
+ 
+Epoch 24 loss 0.3645346282 valid acc 16/16
+ 
+Epoch 24 loss 0.1826590228 valid acc 13/16
+ 
+Epoch 24 loss 0.1412279273 valid acc 14/16
+ 
+Epoch 24 loss 0.1046629327 valid acc 14/16
+ 
+Epoch 24 loss -0.0241170354 valid acc 16/16
+ 
+Epoch 24 loss 0.0024857237 valid acc 15/16
+ 
+Epoch 24 loss 0.54433011 valid acc 15/16
+ 
+Epoch 24 loss -0.2854363061 valid acc 14/16
+ 
+Epoch 24 loss 0.4907546409 valid acc 15/16
+ 
+Epoch 24 loss 0.348579522 valid acc 14/16
+ 
+Epoch 24 loss 0.7606890584 valid acc 15/16
+ 
+Epoch 24 loss 0.9471450926 valid acc 15/16
+ 
+Epoch 24 loss -0.068945441 valid acc 15/16
+ 
+Epoch 24 loss 0.1239924919 valid acc 15/16
+ 
+Epoch 24 loss 0.0810430955 valid acc 15/16
+ 
+Epoch 24 loss 0.8013248985 valid acc 15/16
+ 
+Epoch 24 loss 0.1532504259 valid acc 14/16
+ 
+Epoch 24 loss -0.1939094207 valid acc 15/16
+ 
+Epoch 24 loss -0.1403042347 valid acc 15/16
+ 
+Epoch 24 loss 0.6395104814 valid acc 15/16
+ 
+Epoch 24 loss 0.7619185228 valid acc 16/16
+ 
+Epoch 24 loss 0.5239589806 valid acc 14/16
+ 
+Epoch 25 loss 0.2089538296 valid acc 14/16
+ 
+Epoch 25 loss -0.0060707968 valid acc 13/16
+ 
+Epoch 25 loss -0.3396395557 valid acc 15/16
+ 
+Epoch 25 loss 0.6501313521 valid acc 15/16
+ 
+Epoch 25 loss -0.1267214107 valid acc 15/16
+ 
+Epoch 25 loss 0.4954389301 valid acc 15/16
+ 
+Epoch 25 loss -0.1611094042 valid acc 14/16
+ 
+Epoch 25 loss 0.5164826016 valid acc 14/16
+ 
+Epoch 25 loss 0.0260777426 valid acc 15/16
+ 
+Epoch 25 loss 0.3791711436 valid acc 13/16
+ 
+Epoch 25 loss 0.0357513293 valid acc 15/16
+ 
+Epoch 25 loss 0.755878381 valid acc 15/16
+ 
+Epoch 25 loss -0.2700087778 valid acc 15/16
+ 
+Epoch 25 loss 0.3235284518 valid acc 14/16
+ 
+Epoch 25 loss -0.2569646496 valid acc 14/16
+ 
+Epoch 25 loss 0.1448351074 valid acc 14/16
+ 
+Epoch 25 loss 0.5532654805 valid acc 15/16
+ 
+Epoch 25 loss 0.6274143506 valid acc 14/16
+ 
+Epoch 25 loss -0.0564668315 valid acc 15/16
+ 
+Epoch 25 loss 0.3572052599 valid acc 14/16
+ 
+Epoch 25 loss 0.4872992644 valid acc 14/16
+ 
+Epoch 25 loss 0.3439323242 valid acc 15/16
+ 
+Epoch 25 loss -0.1247362039 valid acc 15/16
+ 
+Epoch 25 loss 0.0743487672 valid acc 15/16
+ 
+Epoch 25 loss 0.2069716162 valid acc 14/16
+ 
+Epoch 25 loss 0.8053594134 valid acc 14/16
+ 
+Epoch 25 loss 0.0114597739 valid acc 16/16
+ 
+Epoch 25 loss 0.6090689545 valid acc 16/16
+ 
+Epoch 25 loss 0.4398432406 valid acc 16/16
+ 
+Epoch 25 loss -0.2649157419 valid acc 15/16
+ 
+Epoch 25 loss -0.1261263711 valid acc 16/16
+ 
+Epoch 25 loss 0.2978782856 valid acc 14/16
+ 
+Epoch 25 loss 0.4264545855 valid acc 14/16
+ 
+Epoch 25 loss 0.2661193343 valid acc 15/16
+ 
+Epoch 25 loss 0.2006564214 valid acc 14/16
+ 
+Epoch 25 loss 0.4880522082 valid acc 15/16
+ 
+Epoch 25 loss 0.1377364671 valid acc 14/16
+ 
+Epoch 25 loss 0.204610097 valid acc 15/16
+ 
+Epoch 25 loss 0.3559002693 valid acc 15/16
+ 
+Epoch 25 loss 0.0722183335 valid acc 14/16
+ 
+Epoch 25 loss -0.3805978857 valid acc 15/16
+ 
+Epoch 25 loss 0.5628275642 valid acc 15/16
+ 
+Epoch 25 loss 0.2992631866 valid acc 15/16
+ 
+Epoch 25 loss 0.3549588945 valid acc 14/16
+ 
+Epoch 25 loss 0.030237225 valid acc 15/16
+ 
+Epoch 25 loss 0.1827659694 valid acc 16/16
+ 
+Epoch 25 loss 0.3343935336 valid acc 15/16
+ 
+Epoch 25 loss -0.0709323895 valid acc 15/16
+ 
+Epoch 25 loss 0.4377975573 valid acc 15/16
+ 
+Epoch 25 loss 0.2417668159 valid acc 15/16
+ 
+Epoch 25 loss 0.5954405144 valid acc 16/16
+ 
+Epoch 25 loss -0.355569141 valid acc 15/16
+ 
+Epoch 25 loss -0.1896682209 valid acc 15/16
+ 
+Epoch 25 loss 0.3240319386 valid acc 15/16
+ 
+Epoch 25 loss -0.3959852465 valid acc 15/16
+ 
+Epoch 25 loss 0.1576390073 valid acc 15/16
+ 
+Epoch 25 loss 0.0132045778 valid acc 14/16
+ 
+Epoch 25 loss -0.281806757 valid acc 14/16
+ 
+Epoch 25 loss -0.105654536 valid acc 14/16
+ 
+Epoch 25 loss 0.6115439105 valid acc 14/16
+ 
+Epoch 25 loss -0.1608924322 valid acc 14/16
+ 
+Epoch 25 loss -0.4138854723 valid acc 15/16
+ 
+Epoch 25 loss -0.1778584072 valid acc 15/16
