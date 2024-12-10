@@ -352,3 +352,5 @@ class Conv2dFun(Function):
 
 
 conv2d = Conv2dFun.apply
+
+# None type error
