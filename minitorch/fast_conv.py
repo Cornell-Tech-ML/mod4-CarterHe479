@@ -1,7 +1,6 @@
-from typing import Tuple
-
+from typing import Tuple, TypeVar, Any
 import numpy as np
-from numba import njit, prange
+from numba import prange, njit as _njit
 
 from .autodiff import Context
 from .tensor import Tensor
@@ -15,12 +14,25 @@ from .tensor_data import (
 )
 from .tensor_functions import Function
 
-# This code will JIT compile fast versions your tensor_data functions.
-# If you get an error, read the docs for NUMBA as to what is allowed
-# in these functions.
-to_index = njit(inline="always")(to_index)
-index_to_position = njit(inline="always")(index_to_position)
-broadcast_index = njit(inline="always")(broadcast_index)
+Fn = TypeVar("Fn")
+
+
+def njit(fn: Fn = None, **kwargs: Any) -> Fn:  # noqa: D103
+    def decorator(inner_fn: Fn) -> Fn:
+        return _njit(inner_fn, inline="always", **kwargs)  # type: ignore
+
+    # If used directly (e.g., njit(my_function)), call the decorator
+    if fn is not None:
+        return decorator(fn)  # type: ignore
+
+    # If used as a decorator (@njit), return the decorator itself
+    return decorator  # type: ignore
+
+
+# JIT-compiled tensor_data functions
+to_index = njit(to_index)
+index_to_position = njit(index_to_position)
+broadcast_index = njit(broadcast_index)
 
 
 def _tensor_conv1d(
@@ -90,7 +102,7 @@ def _tensor_conv1d(
         cur_batch, cur_out_channels, cur_width = out_index
         val = 0.0
         for c1 in range(in_channels):
-            for c2 in range(kw):
+            for c2 in range(kw):  # kw is kernel width
                 if not reverse:
                     if (cur_width + c2) >= width:
                         val += 0.0
@@ -254,40 +266,40 @@ def _tensor_conv2d(
         cur_batch, cur_out_channels, cur_h, cur_w = out_index
         val = 0.0
 
-        for i in range(in_channels):
+        for c in range(in_channels):
             for h in range(kh):
                 for w in range(kw):
                     if not reverse:
                         weight_index[0] = cur_out_channels
-                        weight_index[1] = i
+                        weight_index[1] = c
                         weight_index[2] = h
                         weight_index[3] = w
                         in_index[0] = cur_batch
-                        in_index[1] = i
+                        in_index[1] = c
                         in_index[2] = cur_h + h
                         in_index[3] = cur_w + w
                         if cur_h + h >= height or cur_w + w >= width:
                             val += 0.0
                         else:
                             val += (
-                                weight[index_to_position(weight_index, s2)]
-                                * input[index_to_position(in_index, s1)]
+                                input[index_to_position(in_index, s1)]
+                                * weight[index_to_position(weight_index, s2)]
                             )
                     else:
                         weight_index[0] = cur_out_channels
-                        weight_index[1] = i
+                        weight_index[1] = c
                         weight_index[2] = h
                         weight_index[3] = w
                         in_index[0] = cur_batch
-                        in_index[1] = i
+                        in_index[1] = c
                         in_index[2] = cur_h - h
                         in_index[3] = cur_w - w
                         if cur_h - h < 0 or cur_w - w < 0:
                             val += 0.0
                         else:
                             val += (
-                                weight[index_to_position(weight_index, s2)]
-                                * input[index_to_position(in_index, s1)]
+                                input[index_to_position(in_index, s1)]
+                                * weight[index_to_position(weight_index, s2)]
                             )
         out[index_to_position(out_index, out_strides)] = val
 
@@ -353,4 +365,4 @@ class Conv2dFun(Function):
 
 conv2d = Conv2dFun.apply
 
-# None type error
+# style error
