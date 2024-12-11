@@ -143,9 +143,14 @@ def logsoftmax(input: Tensor, dim: int) -> Tensor:  # noqa: D417
         Tensor of size batch x channel x height x width
 
     """
-    t = input.exp()
-    s = t.sum(dim)
-    return input - s.log()
+    # t = input.exp()
+    # s = t.sum(dim)
+    # return input - s.log()
+
+    # using logsumexp trick, where the max is substracted then added back in
+    t = input - max(input, dim)
+    s = t.exp().sum(dim)
+    return t - s.log()
 
 
 def maxpool2d(input: Tensor, kernel: Tuple[int, int]) -> Tensor:
