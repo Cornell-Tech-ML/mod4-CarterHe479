@@ -1,27 +1,25 @@
 from typing import Tuple, TypeVar, Any
-
 import numpy as np
-from numba import prange
 from numba import njit as _njit
+from numba import prange
 
 from .autodiff import Context
 from .tensor import Tensor
 from .tensor_data import (
-    MAX_DIMS,
-    Index,
     Shape,
     Strides,
     Storage,
     broadcast_index,
     index_to_position,
     to_index,
+    Index,
 )
 from .tensor_functions import Function
 
 Fn = TypeVar("Fn")
 
 
-def njit(fn: Fn, **kwargs: Any) -> Fn:
+def njit(fn: Fn, **kwargs: Any) -> Fn:  # noqa: D103
     return _njit(inline="always", **kwargs)(fn)  # type: ignore
 
 
@@ -91,7 +89,46 @@ def _tensor_conv1d(
     s2 = weight_strides
 
     # TODO: Implement for Task 4.1.
-    raise NotImplementedError("Need to implement for Task 4.1")
+    for i in prange(out_size):
+        out_index: Index = np.zeros(3, np.int32)
+        in_index: Index = np.zeros(3, np.int32)
+        weights_index: Index = np.zeros(3, np.int32)
+
+        to_index(i, out_shape, out_index)
+        cur_batch, cur_out_channels, cur_width = out_index
+        val = 0.0
+        for c1 in range(in_channels):
+            for c2 in range(kw):  # kw is kernel width
+                if not reverse:
+                    if (cur_width + c2) >= width:
+                        val += 0.0
+                    else:
+                        weights_index[0] = cur_out_channels
+                        weights_index[1] = c1
+                        weights_index[2] = c2
+                        in_index[0] = cur_batch
+                        in_index[1] = c1
+                        in_index[2] = cur_width + c2
+                        val += (
+                            input[index_to_position(in_index, s1)]
+                            * weight[index_to_position(weights_index, s2)]
+                        )
+                else:
+                    if (cur_width - c2) < 0:
+                        val += 0.0
+                    else:
+                        weights_index[0] = cur_out_channels
+                        weights_index[1] = c1
+                        weights_index[2] = c2
+                        in_index[0] = cur_batch
+                        in_index[1] = c1
+                        in_index[2] = cur_width - c2
+                        val += (
+                            input[index_to_position(in_index, s1)]
+                            * weight[index_to_position(weights_index, s2)]
+                        )
+
+        out[index_to_position(out_index, out_strides)] = val
 
 
 tensor_conv1d = njit(_tensor_conv1d, parallel=True)
@@ -126,7 +163,7 @@ class Conv1dFun(Function):
         return output
 
     @staticmethod
-    def backward(ctx: Context, grad_output: Tensor) -> Tuple[Tensor, Tensor]:
+    def backward(ctx: Context, grad_output: Tensor) -> Tuple[Tensor, Tensor]:  # noqa: D102
         input, weight = ctx.saved_values
         batch, in_channels, w = input.shape
         out_channels, in_channels, kw = weight.shape
@@ -216,11 +253,54 @@ def _tensor_conv2d(
     s1 = input_strides
     s2 = weight_strides
     # inners
-    s10, s11, s12, s13 = s1[0], s1[1], s1[2], s1[3]
-    s20, s21, s22, s23 = s2[0], s2[1], s2[2], s2[3]
+    s10, s11, s12, s13 = s1[0], s1[1], s1[2], s1[3]  # noqa: F841
+    s20, s21, s22, s23 = s2[0], s2[1], s2[2], s2[3]  # noqa: F841
 
     # TODO: Implement for Task 4.2.
-    raise NotImplementedError("Need to implement for Task 4.2")
+    for p in prange(out_size):
+        out_index: Index = np.zeros(4, np.int32)
+        weight_index: Index = np.zeros(4, np.int32)
+        in_index: Index = np.zeros(4, np.int32)
+        to_index(p, out_shape, out_index)
+        cur_batch, cur_out_channels, cur_h, cur_w = out_index
+        val = 0.0
+
+        for c in range(in_channels):
+            for h in range(kh):
+                for w in range(kw):
+                    if not reverse:
+                        weight_index[0] = cur_out_channels
+                        weight_index[1] = c
+                        weight_index[2] = h
+                        weight_index[3] = w
+                        in_index[0] = cur_batch
+                        in_index[1] = c
+                        in_index[2] = cur_h + h
+                        in_index[3] = cur_w + w
+                        if cur_h + h >= height or cur_w + w >= width:
+                            val += 0.0
+                        else:
+                            val += (
+                                input[index_to_position(in_index, s1)]
+                                * weight[index_to_position(weight_index, s2)]
+                            )
+                    else:
+                        weight_index[0] = cur_out_channels
+                        weight_index[1] = c
+                        weight_index[2] = h
+                        weight_index[3] = w
+                        in_index[0] = cur_batch
+                        in_index[1] = c
+                        in_index[2] = cur_h - h
+                        in_index[3] = cur_w - w
+                        if cur_h - h < 0 or cur_w - w < 0:
+                            val += 0.0
+                        else:
+                            val += (
+                                input[index_to_position(in_index, s1)]
+                                * weight[index_to_position(weight_index, s2)]
+                            )
+        out[index_to_position(out_index, out_strides)] = val
 
 
 tensor_conv2d = njit(_tensor_conv2d, parallel=True, fastmath=True)
@@ -253,7 +333,7 @@ class Conv2dFun(Function):
         return output
 
     @staticmethod
-    def backward(ctx: Context, grad_output: Tensor) -> Tuple[Tensor, Tensor]:
+    def backward(ctx: Context, grad_output: Tensor) -> Tuple[Tensor, Tensor]:  # noqa: D102
         input, weight = ctx.saved_values
         batch, in_channels, h, w = input.shape
         out_channels, in_channels, kh, kw = weight.shape
